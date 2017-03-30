@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" Date="">
 <Add>
+   <TcClass className="YF6_Color_Group2" parentClassName="Item" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
    <TcClass className="YF6_Color_Group1" parentClassName="Item" isExportable="false"
        isUninstantiable="false" isUninheritable="false" description=""/>
    <TcClass className="YF6_Color_Group" parentClassName="Item" isExportable="false"
