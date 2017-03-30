@@ -1,0 +1,3 @@
+/YFAI_MFG/extensions/default.xml
+/YFAI_MFG/extensions/dependency.xml
+/YFAI_MFG/extensions/master.xml
