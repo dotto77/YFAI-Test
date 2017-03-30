@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:20:54 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_ford" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="B479" description="B479" conditionName="isTrue"/>
+      <TcLOVValue value="B500" description="B500" conditionName="isTrue"/>
+      <TcLOVValue value="B515MCA" description="New Ecosport" conditionName="isTrue"/>
+      <TcLOVValue value="B562" description="B-sedan" conditionName="isTrue"/>
+      <TcLOVValue value="C307" description="Focus" conditionName="isTrue"/>
+      <TcLOVValue value="C346MCA" description="New Focus MCA" conditionName="isTrue"/>
+      <TcLOVValue value="C482" description="C482" conditionName="isTrue"/>
+      <TcLOVValue value="C490" description="Escort" conditionName="isTrue"/>
+      <TcLOVValue value="C490MCA" description="C490 MCA" conditionName="isTrue"/>
+      <TcLOVValue value="C495" description="C495" conditionName="isTrue"/>
+      <TcLOVValue value="C520MCA" description="New Kuga" conditionName="isTrue"/>
+      <TcLOVValue value="CD345" description="Mondeo" conditionName="isTrue"/>
+      <TcLOVValue value="CD391MCA" description="New Mondeo" conditionName="isTrue"/>
+      <TcLOVValue value="New-Mode" description="New-Model" conditionName="isTrue"/>
+      <TcLOVValue value="S80" description="S80" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

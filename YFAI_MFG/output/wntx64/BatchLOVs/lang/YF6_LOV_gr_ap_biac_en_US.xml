@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:19:26 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}B80A" status="Approved">B80A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}B80A" status="Approved">B80A</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}B80B/C" status="Approved">B80B/C</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}B80B/C" status="Approved">B80C/D</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}B80J" status="Approved">B80J</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}B80J" status="Approved">B80J</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C11CB" status="Approved">C11CB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C11CB" status="Approved">C11CB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C30D" status="Approved">C30D</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C30D" status="Approved">BAIC E series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C30RHD" status="Approved">C30RHD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C30RHD" status="Approved">BAIC E series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C31D" status="Approved">C31D</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C31D" status="Approved">Senova X35</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C33D" status="Approved">C33D</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C33D" status="Approved">Senova X25</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C33DRHD" status="Approved">C33DRHD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C33DRHD"
+        status="Approved">C33D</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C40" status="Approved">C40</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C40" status="Approved">C40D</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C50E" status="Approved">C50E</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C50E" status="Approved">Senova D50</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C50EEV" status="Approved">C50EEV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C50EEV" status="Approved">Senova D50 EV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C51E" status="Approved">C51E</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C51E" status="Approved">Senova X55</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C60F" status="Approved">C60F</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C60F" status="Approved">Senova CC/D60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C61X" status="Approved">C61X</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C61X" status="Approved">Senova X65</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C63F5+2" status="Approved">C63F5+2</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C63F5+2"
+        status="Approved">C63F 5+2</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C63X" status="Approved">C63X</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C63X" status="Approved">C63X</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C70G" status="Approved">C70G</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C70G" status="Approved">Senova D70</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C70GEV" status="Approved">C70GEV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C70GEV" status="Approved">Senova D70 EV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C70GFL01" status="Approved">C70GFL01</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C70GFL01"
+        status="Approved">C70GFL01</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C73FMPV" status="Approved">C73FMPV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C73FMPV"
+        status="Approved">C73F  MPV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C80G" status="Approved">C80G</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C80G" status="Approved">Senova D80</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}C90L" status="Approved">C90L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}C90L" status="Approved">D90</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}H3" status="Approved">H3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}H3" status="Approved">Heavy Truck H3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}H3-2017" status="Approved">H3-2017</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}H3-2017"
+        status="Approved">H3-2017</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}H3-2280" status="Approved">H3-2280</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}H3-2280"
+        status="Approved">Heavy Truck H3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}H4" status="Approved">H4</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}H4" status="Approved">Heavy Truck H4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}H5" status="Approved">H5</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}H5" status="Approved">Heavy Truck H5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}K1" status="Approved">K1</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}K1" status="Approved">Van K1</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}S50-WW" status="Approved">S50-WW</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}S50-WW" status="Approved">S50</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_biac{::}U201" status="Approved">U201</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_biac{::}U201" status="Approved">Sauvana</key>
+  </Add>
+</TcBusinessDataLocalization>

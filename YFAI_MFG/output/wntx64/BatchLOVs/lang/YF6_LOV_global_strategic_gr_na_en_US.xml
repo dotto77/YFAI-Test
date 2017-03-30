@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:19:01 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}AvtoVAZ"
+        status="Approved">AvtoVAZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}AvtoVAZ"
+        status="Approved">AvtoVAZ</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}BMW" status="Approved">BMW</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}BMW"
+        status="Approved">BMW</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}FCA" status="Approved">FCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}FCA"
+        status="Approved">FCA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Ford" status="Approved">Ford</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Ford"
+        status="Approved">Ford</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}GAZ" status="Approved">GAZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}GAZ"
+        status="Approved">GAZ</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}General Motors"
+        status="Approved">General Motors</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}General Motors"
+        status="Approved">General Motors</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Honda" status="Approved">Honda</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Honda"
+        status="Approved">Honda</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Hyundai-Kia"
+        status="Approved">Hyundai-Kia</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Hyundai-Kia"
+        status="Approved">Hyundai-Kia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Jaguar"
+        status="Approved">Jaguar</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Jaguar"
+        status="Approved">Jaguar</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Landrover"
+        status="Approved">Landrover</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Landrover"
+        status="Approved">Landrover</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Mazda" status="Approved">Mazda</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Mazda"
+        status="Approved">Mazda</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Mercedes"
+        status="Approved">Mercedes</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Mercedes"
+        status="Approved">Mercedes</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Mitsubishi"
+        status="Approved">Mitsubishi</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Mitsubishi"
+        status="Approved">Mitsubishi</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}PSA" status="Approved">PSA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}PSA"
+        status="Approved">PSA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Renault/Nissan"
+        status="Approved">Renault/Nissan</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Renault/Nissan"
+        status="Approved">Renault/Nissan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Rover" status="Approved">Rover</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Rover"
+        status="Approved">Rover</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Subaru"
+        status="Approved">Subaru</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Subaru"
+        status="Approved">Subaru</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Suzuki"
+        status="Approved">Suzuki</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Suzuki"
+        status="Approved">Suzuki</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Tesla" status="Approved">Tesla</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Tesla"
+        status="Approved">Tesla</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Toyota"
+        status="Approved">Toyota</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Toyota"
+        status="Approved">Toyota</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Undefined"
+        status="Approved">Undefined</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Undefined"
+        status="Approved">Undefined</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Volkswagen"
+        status="Approved">Volkswagen</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Volkswagen"
+        status="Approved">Volkswagen</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_na{::}Volvo" status="Approved">Volvo</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_na{::}Volvo"
+        status="Approved">Volvo</key>
+  </Add>
+</TcBusinessDataLocalization>

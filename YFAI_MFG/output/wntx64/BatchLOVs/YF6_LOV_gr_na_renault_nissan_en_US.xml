@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:24:51 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}H/U61B" status="Approved">H/U61B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}H/U61B"
+        status="Approved">Frontier</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}H60A" status="Approved">H60A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}H60A"
+        status="Approved">Frontier</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}H61L" status="Approved">H61L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}H61L"
+        status="Approved">Titan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}L12F" status="Approved">L12F</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}L12F"
+        status="Approved">Sentra</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}L42L" status="Approved">L42L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}L42L"
+        status="Approved">Altima</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}NXX" status="Approved">NXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}NXX"
+        status="Approved">Nissan other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}P42K" status="Approved">P42K</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}P42K"
+        status="Approved">Pathfinder</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}P61A" status="Approved">P61A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}P61A"
+        status="Approved">Armada</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}PXX" status="Approved">PXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}PXX"
+        status="Approved">Renault other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_renault_nissan{::}X61F" status="Approved">X61F</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_renault_nissan{::}X61F"
+        status="Approved">NV1500-3500</key>
+  </Add>
+</TcBusinessDataLocalization>

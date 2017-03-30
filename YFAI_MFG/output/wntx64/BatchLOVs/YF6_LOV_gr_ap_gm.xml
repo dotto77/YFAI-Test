@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:12 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_gm" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="258legac" description="GL8" conditionName="isTrue"/>
+      <TcLOVValue value="31XG" description="GMC Canyon" conditionName="isTrue"/>
+      <TcLOVValue value="31XX" description="Chevrolet Colorado" conditionName="isTrue"/>
+      <TcLOVValue value="9BJB" description="9BJB" conditionName="isTrue"/>
+      <TcLOVValue value="9BLB" description="G2SB" conditionName="isTrue"/>
+      <TcLOVValue value="9BYB" description="G2UB" conditionName="isTrue"/>
+      <TcLOVValue value="9BYC" description="G2UC" conditionName="isTrue"/>
+      <TcLOVValue value="A10" description="Cadillac ATS" conditionName="isTrue"/>
+      <TcLOVValue value="A2LL" description="NG Alpha" conditionName="isTrue"/>
+      <TcLOVValue value="A2SL" description="NG Alpha" conditionName="isTrue"/>
+      <TcLOVValue value="C140" description="Captiva" conditionName="isTrue"/>
+      <TcLOVValue value="C1TL-S" description="C1TL" conditionName="isTrue"/>
+      <TcLOVValue value="C1UB" description="C1UB" conditionName="isTrue"/>
+      <TcLOVValue value="C1UC" description="C1UC" conditionName="isTrue"/>
+      <TcLOVValue value="C1UL" description="Cadillac XT5" conditionName="isTrue"/>
+      <TcLOVValue value="CN100IN" description="CN100" conditionName="isTrue"/>
+      <TcLOVValue value="D01" description="Cruze HB" conditionName="isTrue"/>
+      <TcLOVValue value="D06" description="Excelle XT" conditionName="isTrue"/>
+      <TcLOVValue value="D15" description="Cruze Classic" conditionName="isTrue"/>
+      <TcLOVValue value="D16" description="Excelle GT" conditionName="isTrue"/>
+      <TcLOVValue value="D2JBI" description="NG Ampera" conditionName="isTrue"/>
+      <TcLOVValue value="D2JC" description="D2JC" conditionName="isTrue"/>
+      <TcLOVValue value="D2LC" description="New Cruze" conditionName="isTrue"/>
+      <TcLOVValue value="D2LC-n" description="Chevrolet Cruze" conditionName="isTrue"/>
+      <TcLOVValue value="D2SB" description="Verano" conditionName="isTrue"/>
+      <TcLOVValue value="D2SC" description="New Cruze" conditionName="isTrue"/>
+      <TcLOVValue value="D2UB-N" description="Envision export" conditionName="isTrue"/>
+      <TcLOVValue value="D2UB-S" description="Envision" conditionName="isTrue"/>
+      <TcLOVValue value="D2UC" description="D2UC" conditionName="isTrue"/>
+      <TcLOVValue value="D2YB" description="Envision" conditionName="isTrue"/>
+      <TcLOVValue value="D3SC" description="D3SC" conditionName="isTrue"/>
+      <TcLOVValue value="E12" description="Malibu" conditionName="isTrue"/>
+      <TcLOVValue value="E15" description="New Regal" conditionName="isTrue"/>
+      <TcLOVValue value="E16" description="New Lacrosse" conditionName="isTrue"/>
+      <TcLOVValue value="E16N.A" description="E16(N.A.)" conditionName="isTrue"/>
+      <TcLOVValue value="E17" description="New Malibu" conditionName="isTrue"/>
+      <TcLOVValue value="E18" description="Cadillac XTS" conditionName="isTrue"/>
+      <TcLOVValue value="E2LB-U" description="Buick LaCrosse" conditionName="isTrue"/>
+      <TcLOVValue value="E2SB" description="E2 Regal" conditionName="isTrue"/>
+      <TcLOVValue value="E2SC-U" description="Chevrolet Malibu" conditionName="isTrue"/>
+      <TcLOVValue value="G05_GM" description="New Aveo" conditionName="isTrue"/>
+      <TcLOVValue value="G2KxZ" description="BEV2" conditionName="isTrue"/>
+      <TcLOVValue value="G2SC" description="Chevrolet Sonic" conditionName="isTrue"/>
+      <TcLOVValue value="G60" description="Encore" conditionName="isTrue"/>
+      <TcLOVValue value="G61" description="Trax" conditionName="isTrue"/>
+      <TcLOVValue value="G65" description="Trax" conditionName="isTrue"/>
+      <TcLOVValue value="G66" description="New Encore" conditionName="isTrue"/>
+      <TcLOVValue value="GMX350" description="GMX350" conditionName="isTrue"/>
+      <TcLOVValue value="GMX353" description="Buick Lacrosse" conditionName="isTrue"/>
+      <TcLOVValue value="JBSC" description="JBSC" conditionName="isTrue"/>
+      <TcLOVValue value="JBUB" description="B-SUV buick" conditionName="isTrue"/>
+      <TcLOVValue value="JBUC" description="B-SUV chevy" conditionName="isTrue"/>
+      <TcLOVValue value="JCSB" description="K211 FL" conditionName="isTrue"/>
+      <TcLOVValue value="JCSC" description="K216 FL" conditionName="isTrue"/>
+      <TcLOVValue value="K211" description="K211" conditionName="isTrue"/>
+      <TcLOVValue value="K215" description="K215/K211 MCE" conditionName="isTrue"/>
+      <TcLOVValue value="K216" description="Cavalier" conditionName="isTrue"/>
+      <TcLOVValue value="K216Ex" description="Cavalier" conditionName="isTrue"/>
+      <TcLOVValue value="K218" description="K218" conditionName="isTrue"/>
+      <TcLOVValue value="K221" description="K221" conditionName="isTrue"/>
+      <TcLOVValue value="K226" description="K226" conditionName="isTrue"/>
+      <TcLOVValue value="K256" description="K256" conditionName="isTrue"/>
+      <TcLOVValue value="K257" description="K257" conditionName="isTrue"/>
+      <TcLOVValue value="O1SL" description="Cadillac CT6" conditionName="isTrue"/>
+      <TcLOVValue value="OMEGA" description="OMEGA" conditionName="isTrue"/>
+      <TcLOVValue value="SGM201" description="GL8-Luzun" conditionName="isTrue"/>
+      <TcLOVValue value="SGM258" description="New GL8 MCE" conditionName="isTrue"/>
+      <TcLOVValue value="SGM308" description="New Sail" conditionName="isTrue"/>
+      <TcLOVValue value="SGM318" description="Sail 3" conditionName="isTrue"/>
+      <TcLOVValue value="SGM318EV" description="Sail 3 EV" conditionName="isTrue"/>
+      <TcLOVValue value="SGM318Ex" description="Sail 3 export" conditionName="isTrue"/>
+      <TcLOVValue value="SGM328" description="Lova RV" conditionName="isTrue"/>
+      <TcLOVValue value="SGM358" description="NG UVAN" conditionName="isTrue"/>
+      <TcLOVValue value="SGM615MY" description="Next Excelle" conditionName="isTrue"/>
+      <TcLOVValue value="D11" description="D11" conditionName="isTrue"/>
+      <TcLOVValue value="E10" description="E10" conditionName="isTrue"/>
+      <TcLOVValue value="E11" description="E11" conditionName="isTrue"/>
+      <TcLOVValue value="GAMMA" description="GAMMA" conditionName="isTrue"/>
+      <TcLOVValue value="S-CAR" description="S-CAR" conditionName="isTrue"/>
+      <TcLOVValue value="SGM12" description="SGM12" conditionName="isTrue"/>
+      <TcLOVValue value="SGM18" description="SGM18" conditionName="isTrue"/>
+      <TcLOVValue value="SGM200" description="SGM200" conditionName="isTrue"/>
+      <TcLOVValue value="SGM410" description="SGM410" conditionName="isTrue"/>
+      <TcLOVValue value="SGM411" description="SGM411" conditionName="isTrue"/>
+      <TcLOVValue value="SGM60" description="SGM60" conditionName="isTrue"/>
+      <TcLOVValue value="SGM618" description="SGM618" conditionName="isTrue"/>
+      <TcLOVValue value="SGM710" description="SGM710" conditionName="isTrue"/>
+      <TcLOVValue value="SGM811" description="SGM811" conditionName="isTrue"/>
+      <TcLOVValue value="SGM813" description="SGM813" conditionName="isTrue"/>
+      <TcLOVValue value="SGM818" description="SGM818" conditionName="isTrue"/>
+      <TcLOVValue value="SGM980" description="SGM980" conditionName="isTrue"/>
+      <TcLOVValue value="SGM985" description="SGM985" conditionName="isTrue"/>
+      <TcLOVValue value="W-CAR" description="W-CAR" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Tue Mar 07 04:16:46 PM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_pt_prod_line" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="1000" description="Door Panel" conditionName="isTrue"/>
+      <TcLOVValue value="1100" description="Floor Console" conditionName="isTrue"/>
+      <TcLOVValue value="1200" description="IP" conditionName="isTrue"/>
+      <TcLOVValue value="1300" description="Cockpit Assy" conditionName="isTrue"/>
+      <TcLOVValue value="1310" description="Cockpit" conditionName="isTrue"/>
+      <TcLOVValue value="1400" description="Overhead System" conditionName="isTrue"/>
+      <TcLOVValue value="1500" description="Funtional Part" conditionName="isTrue"/>
+      <TcLOVValue value="1600" description="Hard Trim" conditionName="isTrue"/>
+      <TcLOVValue value="1900" description="Other Finished" conditionName="isTrue"/>
+      <TcLOVValue value="9000" description="Common Components" conditionName="isTrue"/>
+      <TcLOVValue value="9999" description="default SAF (unused)" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

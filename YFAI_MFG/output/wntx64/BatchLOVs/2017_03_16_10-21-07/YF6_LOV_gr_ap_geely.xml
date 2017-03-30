@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:07 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_geely" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="CX11" description="CX11" conditionName="isTrue"/>
+      <TcLOVValue value="FE-3 EV" description="New Emgrand EV" conditionName="isTrue"/>
+      <TcLOVValue value="FE-3/AB" description="New Emgrand" conditionName="isTrue"/>
+      <TcLOVValue value="FE-5" description="EC7 2nd" conditionName="isTrue"/>
+      <TcLOVValue value="FE-5B" description="EC72nd FL" conditionName="isTrue"/>
+      <TcLOVValue value="FE-7" description="EC7 GS" conditionName="isTrue"/>
+      <TcLOVValue value="FE-7B" description="EMGRAND GS" conditionName="isTrue"/>
+      <TcLOVValue value="K316" description="Volvo XC40" conditionName="isTrue"/>
+      <TcLOVValue value="K413" description="Volvo XC60" conditionName="isTrue"/>
+      <TcLOVValue value="K431" description="Volvo K431" conditionName="isTrue"/>
+      <TcLOVValue value="L421" description="Volvo S60L" conditionName="isTrue"/>
+      <TcLOVValue value="LG-4" description="SC6/SC6-RV" conditionName="isTrue"/>
+      <TcLOVValue value="LG-4AB" description="Kingkong FL" conditionName="isTrue"/>
+      <TcLOVValue value="NL-3" description="NL-3" conditionName="isTrue"/>
+      <TcLOVValue value="NL-3B" description="BOYUE" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

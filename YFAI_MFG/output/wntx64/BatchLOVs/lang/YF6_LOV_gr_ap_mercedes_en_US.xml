@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:22:13 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}H/X247" status="Approved">H/X247</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}H/X247"
+        status="Approved">Benz B-series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}V/W205" status="Approved">V/W205</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}V/W205"
+        status="Approved">Benz C-series FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}V/W213" status="Approved">V/W213</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}V/W213"
+        status="Approved">Benz E-series FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}V253" status="Approved">V253</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}V253"
+        status="Approved">V253</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}X156" status="Approved">X156</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}X156"
+        status="Approved">Benz GLA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}X157" status="Approved">X157</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}X157"
+        status="Approved">Benz GLA/MFA2</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}X204" status="Approved">X204</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}X204"
+        status="Approved">Benz GLK</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}X253" status="Approved">X253</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}X253"
+        status="Approved">Benz GLC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_mercedes{::}Z177" status="Approved">Z177</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_mercedes{::}Z177"
+        status="Approved">Benz A-series</key>
+  </Add>
+</TcBusinessDataLocalization>

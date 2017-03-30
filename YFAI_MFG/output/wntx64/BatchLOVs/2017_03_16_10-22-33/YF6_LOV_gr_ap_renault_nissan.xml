@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:22:33 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_renault_nissan" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="322" description="322" conditionName="isTrue"/>
+      <TcLOVValue value="331" description="331" conditionName="isTrue"/>
+      <TcLOVValue value="341" description="341" conditionName="isTrue"/>
+      <TcLOVValue value="531" description="Venucia T70" conditionName="isTrue"/>
+      <TcLOVValue value="531 FMC" description="T70MCE" conditionName="isTrue"/>
+      <TcLOVValue value="591" description="Venucia T90" conditionName="isTrue"/>
+      <TcLOVValue value="D511/521" description="Venucia D50/R50" conditionName="isTrue"/>
+      <TcLOVValue value="HJE" description="Captur" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

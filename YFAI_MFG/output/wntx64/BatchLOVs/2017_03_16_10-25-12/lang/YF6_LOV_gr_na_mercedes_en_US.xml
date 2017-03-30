@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:25:12 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}G463" status="Approved">G463</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}G463"
+        status="Approved">MB G Wagen</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}G463 M" status="Approved">G463 M</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}G463 M"
+        status="Approved">MB G Wagen</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}MXX" status="Approved">MXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}MXX"
+        status="Approved">Mercedes other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}R129" status="Approved">R129</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}R129"
+        status="Approved">MB SL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}R170" status="Approved">R170</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}R170"
+        status="Approved">MB SLK</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}R172" status="Approved">R172</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}R172"
+        status="Approved">MB SLK</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}V/W251" status="Approved">V/W251</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}V/W251"
+        status="Approved">R-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W164" status="Approved">W164</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W164"
+        status="Approved">MB M-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W166" status="Approved">W166</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W166"
+        status="Approved">GLE (M-Class)</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W169" status="Approved">W169</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W169"
+        status="Approved">MB A-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W177" status="Approved">W177</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W177"
+        status="Approved">MB A-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W204" status="Approved">W204</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W204"
+        status="Approved">MB C-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W205" status="Approved">W205</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W205"
+        status="Approved">MB C-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W206" status="Approved">W206</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W206"
+        status="Approved">MB C-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W212" status="Approved">W212</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W212"
+        status="Approved">MB E-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W213" status="Approved">W213</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W213"
+        status="Approved">MB E-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W222" status="Approved">W222</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W222"
+        status="Approved">MB S-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W223" status="Approved">W223</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W223"
+        status="Approved">MB S-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W246" status="Approved">W246</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W246"
+        status="Approved">MB B-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}W247" status="Approved">W247</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}W247"
+        status="Approved">MB B-Class</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_mercedes{::}X254" status="Approved">X254</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_mercedes{::}X254"
+        status="Approved">MB SL 01</key>
+  </Add>
+</TcBusinessDataLocalization>

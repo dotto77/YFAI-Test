@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:23:33 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_avtovaz{::}AVX" status="Approved">AVX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_avtovaz{::}AVX" status="Approved">Avtovaz other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_avtovaz{::}VAZ-2190" status="Approved">VAZ-2190</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_avtovaz{::}VAZ-2190"
+        status="Approved">Granta</key>
+  </Add>
+</TcBusinessDataLocalization>

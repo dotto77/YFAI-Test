@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:22:05 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_honda" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="2AS/TX4" description="RDX" conditionName="isTrue"/>
+      <TcLOVValue value="2GA/T2A" description="Accord" conditionName="isTrue"/>
+      <TcLOVValue value="2GV/TZ3" description="TLX" conditionName="isTrue"/>
+      <TcLOVValue value="2KM/T6Z" description="Ridgeline" conditionName="isTrue"/>
+      <TcLOVValue value="2MH/TK8" description="Odyssey" conditionName="isTrue"/>
+      <TcLOVValue value="2SF/TG7" description="Pilot" conditionName="isTrue"/>
+      <TcLOVValue value="2SL/TZ5" description="MD-X" conditionName="isTrue"/>
+      <TcLOVValue value="2WS/T0A" description="CR-V" conditionName="isTrue"/>
+      <TcLOVValue value="2YM/THRA" description="Odyssey" conditionName="isTrue"/>
+      <TcLOVValue value="HXX" description="Honda other" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

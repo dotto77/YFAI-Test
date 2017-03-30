@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:17:22 AM 2017">
+  <Add>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_pt_prod_line_region" targetValue="AP"
+        subLOVName="YF6_LOV_global_strategic_gr_ap" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_pt_prod_line_region" targetValue="NA/EMEA"
+        subLOVName="YF6_LOV_global_strategic_gr_na" conditionName="isTrue"/>
+  </Add>
+  <Change>
+    <TcLOV name="YF6_LOV_pt_prod_line_region" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="AP" description="Asia/Pacific" conditionName="isTrue"/>
+      <TcLOVValue value="NA/EMEA" description="North America/Europe, Middle East, Africa"
+          conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

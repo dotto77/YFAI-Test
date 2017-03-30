@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:25:49 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_bmw" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="E46" description="BMW 3 series" conditionName="isTrue"/>
+      <TcLOVValue value="E84" description="BMW X1" conditionName="isTrue"/>
+      <TcLOVValue value="E90" description="BMW 3 series" conditionName="isTrue"/>
+      <TcLOVValue value="F07" description="BMW Luxury Sport Cru" conditionName="isTrue"/>
+      <TcLOVValue value="F10" description="BMW 5 series" conditionName="isTrue"/>
+      <TcLOVValue value="F15" description="BMW X5" conditionName="isTrue"/>
+      <TcLOVValue value="F16" description="BMW X6" conditionName="isTrue"/>
+      <TcLOVValue value="F25" description="BMW X3" conditionName="isTrue"/>
+      <TcLOVValue value="F26" description="BMW X4" conditionName="isTrue"/>
+      <TcLOVValue value="F30" description="BMW 3 series" conditionName="isTrue"/>
+      <TcLOVValue value="F39" description="BMW X-Cite" conditionName="isTrue"/>
+      <TcLOVValue value="F45" description="BMW 2 series / Tourer" conditionName="isTrue"/>
+      <TcLOVValue value="F48" description="BMW X1" conditionName="isTrue"/>
+      <TcLOVValue value="G01" description="BMW X3" conditionName="isTrue"/>
+      <TcLOVValue value="G02" description="BMW X4" conditionName="isTrue"/>
+      <TcLOVValue value="G05" description="BMW X5" conditionName="isTrue"/>
+      <TcLOVValue value="G20" description="BMW 3 series" conditionName="isTrue"/>
+      <TcLOVValue value="G26" description="BMW 4 series" conditionName="isTrue"/>
+      <TcLOVValue value="G30" description="BMW 3/5up" conditionName="isTrue"/>
+      <TcLOVValue value="i01(MCV)" description="BMW I03" conditionName="isTrue"/>
+      <TcLOVValue value="WXX" description="BMW other" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

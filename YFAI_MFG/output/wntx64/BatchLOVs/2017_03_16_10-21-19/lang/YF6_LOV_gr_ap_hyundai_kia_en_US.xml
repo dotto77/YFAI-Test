@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:19 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}AB" status="Approved">AB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}AB"
+        status="Approved">AB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}AD" status="Approved">AD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}AD"
+        status="Approved">Lingdong</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}BD" status="Approved">BD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}BD"
+        status="Approved">BD</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}BDC" status="Approved">BDC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}BDC"
+        status="Approved">K3 FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}BT01" status="Approved">BT01</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}BT01"
+        status="Approved">Molnca</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}CB" status="Approved">CB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}CB"
+        status="Approved">CB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}CFC" status="Approved">CFC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}CFC"
+        status="Approved">Mistra</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}DMC" status="Approved">DMC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}DMC"
+        status="Approved">New Santa Fe</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}DMCFL" status="Approved">DMCFL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}DMCFL"
+        status="Approved">New Santa Fe</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}ID" status="Approved">ID</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}ID"
+        status="Approved">ID</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}JFC" status="Approved">JFC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}JFC"
+        status="Approved">New K5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}KC" status="Approved">KC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}KC"
+        status="Approved">KX3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}LFC" status="Approved">LFC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}LFC"
+        status="Approved">Sonata 9</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}LMC" status="Approved">LMC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}LMC"
+        status="Approved">ix35</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}MDC" status="Approved">MDC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}MDC"
+        status="Approved">Langdong</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}ND" status="Approved">ND</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}ND"
+        status="Approved">ND</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}NU" status="Approved">NU</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}NU"
+        status="Approved">NU</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}QE" status="Approved">QE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}QE"
+        status="Approved">K1</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}SFC" status="Approved">SFC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}SFC"
+        status="Approved">SFC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}SQ" status="Approved">SQ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}SQ"
+        status="Approved">SQ</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}TL" status="Approved">TL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}TL"
+        status="Approved">New Tucson</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}TM" status="Approved">TM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}TM"
+        status="Approved">New Santa Fe</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}UC" status="Approved">UC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}UC"
+        status="Approved">UC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}XD" status="Approved">XD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}XD"
+        status="Approved">Elantra XD</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}XF" status="Approved">XF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}XF"
+        status="Approved">XF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_hyundai_kia{::}XL" status="Approved">XL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_hyundai_kia{::}XL"
+        status="Approved">XL</key>
+  </Add>
+</TcBusinessDataLocalization>

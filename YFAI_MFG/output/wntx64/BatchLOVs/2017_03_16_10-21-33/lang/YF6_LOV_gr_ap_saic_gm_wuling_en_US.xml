@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:33 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN100" status="Approved">CN100</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN100"
+        status="Approved">CN100</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN100NG" status="Approved">CN100NG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN100NG"
+        status="Approved">New CN100 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN100V" status="Approved">CN100V</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN100V"
+        status="Approved">CN100V</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN101" status="Approved">CN101</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN101"
+        status="Approved">CN100</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN112" status="Approved">CN112</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN112"
+        status="Approved">CN100 MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN113" status="Approved">CN113</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN113"
+        status="Approved">CN113</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN113R" status="Approved">CN113R</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN113R"
+        status="Approved">CN113R</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN120S" status="Approved">CN120S</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN120S"
+        status="Approved">CN120S</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN150" status="Approved">CN150</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN150"
+        status="Approved">CN150</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN180NG" status="Approved">CN180NG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN180NG"
+        status="Approved">new CN180</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN180S" status="Approved">CN180S</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN180S"
+        status="Approved">CN180S</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN200" status="Approved">CN200</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN200"
+        status="Approved">Baojun 730</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN200NG" status="Approved">CN200NG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN200NG"
+        status="Approved">New Baojun 560</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN200S" status="Approved">CN200S</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN200S"
+        status="Approved">Baojun 560</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN201" status="Approved">CN201</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN201"
+        status="Approved">CN200 MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN210" status="Approved">CN210</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN210"
+        status="Approved">CN210</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN210NG" status="Approved">CN210NG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN210NG"
+        status="Approved">New CN210 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN210R" status="Approved">CN210R</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN210R"
+        status="Approved">CN210R</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN220" status="Approved">CN220</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN220"
+        status="Approved">CN220</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN300" status="Approved">CN300</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}CN300"
+        status="Approved">CN300</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP30" status="Approved">GP30</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP30"
+        status="Approved">Baojun 330</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP50HB" status="Approved">GP50HB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP50HB"
+        status="Approved">Baojun 610</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP52" status="Approved">GP52</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP52"
+        status="Approved">Baojun 630</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP53" status="Approved">GP53</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}GP53"
+        status="Approved">Baojun 630</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}M100" status="Approved">M100</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}M100"
+        status="Approved">Spark</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic_gm_wuling{::}Sparkspo"
+        status="Approved">Sparkspo</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic_gm_wuling{::}Sparkspo"
+        status="Approved">Spark Sporty</key>
+  </Add>
+</TcBusinessDataLocalization>

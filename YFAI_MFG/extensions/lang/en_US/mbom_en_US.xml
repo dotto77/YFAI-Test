@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    Date="">
+<Add>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_GroupMasterS" status="Approved">Color Group Master Storage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_GroupMaster" status="Approved">Color Group Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_GroupRevMasterS" status="Approved">Color Group Revision Master Storage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_GroupRevisionMaster" status="Approved">Color Group Revision Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_GroupRevision" status="Approved">Color Group Revision</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_Group" status="Approved">Color Part Grouping</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_PartMasterS" status="Approved">Color Part Master Storage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_PartMaster" status="Approved">Color Part ERP Item Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_PartRevMasterS" status="Approved">Color Part Revision Master Storage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_PartRevisionMaster" status="Approved">Color Part Revision Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_PartRevision" status="Approved">Color Part Revision</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_Color_Part" status="Approved">Color Part</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_EBOMItemRelation" status="Approved">EBOM Item</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_ERP_Item_MasterStorage" status="Approved">YF6_ERP_Item_MasterStorage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_ERP_Item_Master" status="Approved">ERP Item Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_MBOM_ItemMasterS" status="Approved">MBOM Item Master Storage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_MBOM_ItemMaster" status="Approved">MBOM ERP Item Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_MBOM_ItemRevMasterS" status="Approved">MBOM Item Revision Master Storage</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_MBOM_ItemRevisionMaster" status="Approved">MBOM Item Revision Master</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_MBOM_ItemRevision" status="Approved">MBOM Item Revision</key>
+   <key locale="en_US" id="BusinessObject{::}YF6_MBOM_Item" status="Approved">MBOM Item</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_desc1Ovl" status="Approved">yf6_pt_desc1Ovl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_desc2Ovl" status="Approved">yf6_pt_desc2Ovl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_groupOvl" status="Approved">yf6_pt_groupOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_net_wtOvl" status="Approved">yf6_pt_net_wtOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_net_wt_umOvl" status="Approved">yf6_pt_net_wt_umOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_net_wt_um" status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_part_typeOvl" status="Approved">yf6_pt_part_typeOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_part_type" status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_prod_lineOvl" status="Approved">yf6_pt_prod_lineOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_prod_line" status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_statusOvl" status="Approved">yf6_pt_statusOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_umOvl" status="Approved">yf6_pt_umOvl</key>
+   <key locale="en_US" id="Property{::}Fnd0GeneralAudit{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_net_wt_um"
+       status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_part_type"
+       status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_prod_line"
+       status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMasterS{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_net_wt_um" status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_part_type" status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_prod_line" status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartMaster{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_net_wt_um"
+       status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_part_type"
+       status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_prod_line"
+       status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_Color_PartRevision{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_comments"
+       status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_desc1"
+       status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_desc2"
+       status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_group"
+       status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_net_wt_um"
+       status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_net_wt"
+       status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_part_type"
+       status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_prod_line"
+       status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_status"
+       status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_MasterStorage{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_net_wt_um" status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_part_type" status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_prod_line" status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_ERP_Item_Master{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_net_wt_um" status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_part_type" status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_prod_line" status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMasterS{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_net_wt_um" status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_part_type" status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_prod_line" status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemMaster{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevisionMaster{::}yf6_pt_desc1"
+       status="Approved">pt desc1</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_comments" status="Approved">Comments</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_customer_number"
+       status="Approved">Customer Part Number</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_desc1" status="Approved">ERP Description 1</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_desc2" status="Approved">ERP Description 2</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_group" status="Approved">ERP Item Group</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_net_wt_um"
+       status="Approved">ERP Net Weight UoM</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_net_wt" status="Approved">ERP Net Weight</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_part_type"
+       status="Approved">ERP Item Type</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_prod_line"
+       status="Approved">ERP Product Line</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_status" status="Approved">ERP Status</key>
+   <key locale="en_US" id="Property{::}YF6_MBOM_ItemRevision{::}yf6_pt_um" status="Approved">ERP Unit of Measure</key>
+   <key locale="en_US" id="ReleaseStatus{::}YF6_Send_to_ERP" status="Approved">Sent to ERP</key>
+</Add>
+</TcBusinessDataLocalization>

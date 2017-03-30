@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:23:54 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}JVX" status="Approved">JVX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}JVX" status="Approved">Volvo other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}N431" status="Approved">N431</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}N431" status="Approved">S60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V316" status="Approved">V316</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V316" status="Approved">Volvo XC40</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V320" status="Approved">V320</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V320" status="Approved">Volvo V40</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V323" status="Approved">V323</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V323" status="Approved">Volvo V40XC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V426" status="Approved">V426</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V426" status="Approved">Volvo XC60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V432" status="Approved">V432</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V432" status="Approved">Volvo V60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V433" status="Approved">V433</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V433" status="Approved">Volvo V60CC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V526" status="Approved">V526</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V526" status="Approved">Volvo XC90</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V541" status="Approved">V541</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V541" status="Approved">Volvo S90</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V542" status="Approved">V542</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V542" status="Approved">Volvo V90</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}V543" status="Approved">V543</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}V543" status="Approved">Volvo V90XC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}Y283" status="Approved">Y283</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}Y283" status="Approved">Volvo S60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}Y352" status="Approved">Y352</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}Y352" status="Approved">Volvo V50</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_volvo{::}Y413" status="Approved">Y413</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_volvo{::}Y413" status="Approved">Volvo XC60</key>
+  </Add>
+</TcBusinessDataLocalization>

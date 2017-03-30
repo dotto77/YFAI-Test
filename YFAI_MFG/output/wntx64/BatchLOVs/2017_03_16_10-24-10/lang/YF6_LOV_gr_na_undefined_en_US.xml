@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:24:10 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_undefined{::}XHT" status="Approved">XHT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_undefined{::}XHT"
+        status="Approved">Heavy Truck</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_undefined{::}XON" status="Approved">XON</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_undefined{::}XON"
+        status="Approved">Non Automotive</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_undefined{::}XXXXXXXX" status="Approved">XXXXXXXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_undefined{::}XXXXXXXX"
+        status="Approved">Others</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_undefined{::}ZZZZZZZZ" status="Approved">ZZZZZZZZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_undefined{::}ZZZZZZZZ"
+        status="Approved">Undefinded</key>
+  </Add>
+</TcBusinessDataLocalization>

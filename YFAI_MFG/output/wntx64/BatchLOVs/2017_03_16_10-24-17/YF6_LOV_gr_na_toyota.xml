@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:24:17 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_toyota" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="010B" description="Camry" conditionName="isTrue"/>
+      <TcLOVValue value="051A" description="Camry" conditionName="isTrue"/>
+      <TcLOVValue value="150A" description="Corolla" conditionName="isTrue"/>
+      <TcLOVValue value="170A" description="Avalon" conditionName="isTrue"/>
+      <TcLOVValue value="180L" description="Tundra" conditionName="isTrue"/>
+      <TcLOVValue value="200L" description="Sequoia" conditionName="isTrue"/>
+      <TcLOVValue value="320B" description="RAV4" conditionName="isTrue"/>
+      <TcLOVValue value="370B" description="Avalon" conditionName="isTrue"/>
+      <TcLOVValue value="420A" description="RAV4" conditionName="isTrue"/>
+      <TcLOVValue value="440A" description="Highlander" conditionName="isTrue"/>
+      <TcLOVValue value="470L" description="Venza" conditionName="isTrue"/>
+      <TcLOVValue value="580L" description="Sienna" conditionName="isTrue"/>
+      <TcLOVValue value="760A" description="Lexus RX350" conditionName="isTrue"/>
+      <TcLOVValue value="989A" description="Tacoma" conditionName="isTrue"/>
+      <TcLOVValue value="TXX" description="Toyota other" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:19:57 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}A101" status="Approved">A101</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}A101"
+        status="Approved">Benben Mini</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}B211" status="Approved">B211</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}B211"
+        status="Approved">New Yuexiang</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}B753" status="Approved">B753</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}B753"
+        status="Approved">DS 5LS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}B754" status="Approved">B754</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}B754"
+        status="Approved">DS6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}B81" status="Approved">B81</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}B81" status="Approved">DS5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}C201" status="Approved">C201</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}C201"
+        status="Approved">EADO</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}C202" status="Approved">C202</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}C202"
+        status="Approved">C202</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}C211" status="Approved">C211</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}C211"
+        status="Approved">C211</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}C301" status="Approved">C301</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}C301"
+        status="Approved">C301</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}CD101" status="Approved">CD101</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}CD101"
+        status="Approved">Raeton</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}S111" status="Approved">S111</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}S111"
+        status="Approved">S111</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}S301-17" status="Approved">S301-17</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}S301-17"
+        status="Approved">S301-17</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}S401" status="Approved">S401</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}S401"
+        status="Approved">S401</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_changan{::}X74" status="Approved">X74</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_changan{::}X74" status="Approved">X74</key>
+  </Add>
+</TcBusinessDataLocalization>

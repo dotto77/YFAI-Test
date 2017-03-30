@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:00 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_fca" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="139" description="Fiat Panda" conditionName="isTrue"/>
+      <TcLOVValue value="199" description="Fiat Punto" conditionName="isTrue"/>
+      <TcLOVValue value="312" description="Fiat 500" conditionName="isTrue"/>
+      <TcLOVValue value="319" description="Fiat Panda" conditionName="isTrue"/>
+      <TcLOVValue value="330" description="Fiat L0" conditionName="isTrue"/>
+      <TcLOVValue value="330(2)" description="Fiat 500L" conditionName="isTrue"/>
+      <TcLOVValue value="332" description="Fiat 500" conditionName="isTrue"/>
+      <TcLOVValue value="520" description="Jeep B-CUV" conditionName="isTrue"/>
+      <TcLOVValue value="521" description="Jeep 521 Brasil" conditionName="isTrue"/>
+      <TcLOVValue value="846" description="Fiat Lancia Y" conditionName="isTrue"/>
+      <TcLOVValue value="940" description="Alfa Giulietta" conditionName="isTrue"/>
+      <TcLOVValue value="952" description="Alfa Giulia" conditionName="isTrue"/>
+      <TcLOVValue value="961" description="Alfa 961 Sedan" conditionName="isTrue"/>
+      <TcLOVValue value="CXX" description="Chrysler other" conditionName="isTrue"/>
+      <TcLOVValue value="DS/DJ" description="Ram Pickup" conditionName="isTrue"/>
+      <TcLOVValue value="EAX" description="Alfa other" conditionName="isTrue"/>
+      <TcLOVValue value="EFX" description="Ferrari other" conditionName="isTrue"/>
+      <TcLOVValue value="EIX" description="Iveco other" conditionName="isTrue"/>
+      <TcLOVValue value="ELX" description="Lancia other" conditionName="isTrue"/>
+      <TcLOVValue value="EMX" description="Maserati other" conditionName="isTrue"/>
+      <TcLOVValue value="EXX" description="Fiat other" conditionName="isTrue"/>
+      <TcLOVValue value="FF" description="500" conditionName="isTrue"/>
+      <TcLOVValue value="JC49" description="Journey" conditionName="isTrue"/>
+      <TcLOVValue value="JK72" description="Wrangler" conditionName="isTrue"/>
+      <TcLOVValue value="JL72" description="Wrangler" conditionName="isTrue"/>
+      <TcLOVValue value="KL" description="Cherokee" conditionName="isTrue"/>
+      <TcLOVValue value="LX" description="300" conditionName="isTrue"/>
+      <TcLOVValue value="M161" description="Maserati Levante" conditionName="isTrue"/>
+      <TcLOVValue value="MK49" description="Compass" conditionName="isTrue"/>
+      <TcLOVValue value="PF" description="Dart" conditionName="isTrue"/>
+      <TcLOVValue value="RT" description="Caravan" conditionName="isTrue"/>
+      <TcLOVValue value="RU" description="Pacifica/Town&amp;Country" conditionName="isTrue"/>
+      <TcLOVValue value="UF" description="200" conditionName="isTrue"/>
+      <TcLOVValue value="WD75" description="Durango" conditionName="isTrue"/>
+      <TcLOVValue value="WK74" description="Grand Cherokee" conditionName="isTrue"/>
+      <TcLOVValue value="WL" description="Grand Cherokee" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

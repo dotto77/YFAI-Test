@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Tue Mar 07 04:17:12 PM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_pt_net_wt_um" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="BLANK" description="BLANK" conditionName="isTrue"/>
+      <TcLOVValue value="G" description="GRAMMES" conditionName="isTrue"/>
+      <TcLOVValue value="KG" description="KILOGRAMMES" conditionName="isTrue"/>
+      <TcLOVValue value="LB" description="POUNDS" conditionName="isTrue"/>
+      <TcLOVValue value="OZ" description="OUNCES" conditionName="isTrue"/>
+      <TcLOVValue value="T" description="TONNES" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

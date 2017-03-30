@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:59 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}A0" status="Approved">A0</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}A0"
+        status="Approved">Yueyue</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}A111" status="Approved">A111</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}A111"
+        status="Approved">Heyue A13</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}A21" status="Approved">A21</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}A21"
+        status="Approved">Refine S2</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}AII" status="Approved">AII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}AII"
+        status="Approved">Refine A33</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}ASUV" status="Approved">ASUV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}ASUV"
+        status="Approved">ASUV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}B231" status="Approved">B231</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}B231"
+        status="Approved">Heyue 2014</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}B926" status="Approved">B926</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}B926"
+        status="Approved">B18</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}B-Cross" status="Approved">B-Cross</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}B-Cross"
+        status="Approved">Refine S3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}BII" status="Approved">BII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}BII"
+        status="Approved">Heyue A30</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}CII" status="Approved">CII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}CII"
+        status="Approved">CII</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}IEV4" status="Approved">IEV4</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}IEV4"
+        status="Approved">IEV4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}IEV5" status="Approved">IEV5</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}IEV5"
+        status="Approved">IEV5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}IEV6S" status="Approved">IEV6S</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}IEV6S"
+        status="Approved">IEV6S</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}NewAII" status="Approved">NewAII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}NewAII"
+        status="Approved">New Heyue A20</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}newB" status="Approved">newB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}newB"
+        status="Approved">Heyue A50</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}NewBII" status="Approved">NewBII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}NewBII"
+        status="Approved">New Heyue A30</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}New-S3" status="Approved">New-S3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}New-S3"
+        status="Approved">New Refine S3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}NewSII" status="Approved">NewSII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}NewSII"
+        status="Approved">New Refine S5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}RefineII" status="Approved">RefineII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}RefineII"
+        status="Approved">RefineII M5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}RefineM2" status="Approved">RefineM2</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}RefineM2"
+        status="Approved">Refine M2</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}RefineM4" status="Approved">RefineM4</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}RefineM4"
+        status="Approved">Refine M4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}RefineM6" status="Approved">RefineM6</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}RefineM6"
+        status="Approved">Refine M6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}RefineS7" status="Approved">RefineS7</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}RefineS7"
+        status="Approved">Refine S7</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_jianghuai{::}SII" status="Approved">SII</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_jianghuai{::}SII"
+        status="Approved">Refine S5</key>
+  </Add>
+</TcBusinessDataLocalization>

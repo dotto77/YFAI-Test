@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:24:56 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_psa{::}PCX" status="Approved">PCX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_psa{::}PCX" status="Approved">Citroen other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_psa{::}PPX" status="Approved">PPX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_psa{::}PPX" status="Approved">Peugeot other</key>
+  </Add>
+</TcBusinessDataLocalization>

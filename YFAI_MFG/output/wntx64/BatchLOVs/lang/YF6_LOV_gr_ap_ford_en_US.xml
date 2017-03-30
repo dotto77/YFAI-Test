@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:20:54 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}B479" status="Approved">B479</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}B479" status="Approved">B479</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}B500" status="Approved">B500</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}B500" status="Approved">B500</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}B515MCA" status="Approved">B515MCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}B515MCA"
+        status="Approved">New Ecosport</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}B562" status="Approved">B562</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}B562" status="Approved">B-sedan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C307" status="Approved">C307</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C307" status="Approved">Focus</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C346MCA" status="Approved">C346MCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C346MCA"
+        status="Approved">New Focus MCA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C482" status="Approved">C482</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C482" status="Approved">C482</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C490" status="Approved">C490</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C490" status="Approved">Escort</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C490MCA" status="Approved">C490MCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C490MCA"
+        status="Approved">C490 MCA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C495" status="Approved">C495</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C495" status="Approved">C495</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}C520MCA" status="Approved">C520MCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}C520MCA"
+        status="Approved">New Kuga</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}CD345" status="Approved">CD345</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}CD345" status="Approved">Mondeo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}CD391MCA" status="Approved">CD391MCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}CD391MCA"
+        status="Approved">New Mondeo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}New-Mode" status="Approved">New-Mode</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}New-Mode"
+        status="Approved">New-Model</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_ford{::}S80" status="Approved">S80</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_ford{::}S80" status="Approved">S80</key>
+  </Add>
+</TcBusinessDataLocalization>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:23:54 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_volvo" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="JVX" description="Volvo other" conditionName="isTrue"/>
+      <TcLOVValue value="N431" description="S60" conditionName="isTrue"/>
+      <TcLOVValue value="V316" description="Volvo XC40" conditionName="isTrue"/>
+      <TcLOVValue value="V320" description="Volvo V40" conditionName="isTrue"/>
+      <TcLOVValue value="V323" description="Volvo V40XC" conditionName="isTrue"/>
+      <TcLOVValue value="V426" description="Volvo XC60" conditionName="isTrue"/>
+      <TcLOVValue value="V432" description="Volvo V60" conditionName="isTrue"/>
+      <TcLOVValue value="V433" description="Volvo V60CC" conditionName="isTrue"/>
+      <TcLOVValue value="V526" description="Volvo XC90" conditionName="isTrue"/>
+      <TcLOVValue value="V541" description="Volvo S90" conditionName="isTrue"/>
+      <TcLOVValue value="V542" description="Volvo V90" conditionName="isTrue"/>
+      <TcLOVValue value="V543" description="Volvo V90XC" conditionName="isTrue"/>
+      <TcLOVValue value="Y283" description="Volvo S60" conditionName="isTrue"/>
+      <TcLOVValue value="Y352" description="Volvo V50" conditionName="isTrue"/>
+      <TcLOVValue value="Y413" description="Volvo XC60" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

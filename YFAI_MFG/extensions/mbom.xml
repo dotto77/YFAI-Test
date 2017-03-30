@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" Date="">
+<Add>
+   <TcClass className="YF6_Color_Group" parentClassName="Item" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_Color_GroupMasterS" parentClassName="ItemMaster" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_Color_GroupRevMasterS" parentClassName="ItemVersionMaster"
+       isExportable="false" isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_Color_GroupRevision" parentClassName="ItemRevision" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_Color_Part" parentClassName="Item" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_Color_PartMasterS" parentClassName="ItemMaster" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description="">
+     <TcAttribute attributeName="yf6_comments" description="YFAI Comments" attributeType="POM_string"
+         maxStringLength="500" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue=""
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_desc1" description="YFAI ERP Description 1"
+         attributeType="POM_string" maxStringLength="24" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_desc2" description="YFAI ERP Description 2"
+         attributeType="POM_string" maxStringLength="24" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_group" description="YFAI ERP Item Group" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" lowerBoundValue=""
+         upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_net_wt" description="YFAI ERP Net Weight"
+         attributeType="POM_double" maxStringLength="0" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_net_wt_um" description="YFAI ERP Net Weight UoM"
+         attributeType="POM_string" maxStringLength="2" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_part_type" description="YFAI ERP Item Type"
+         attributeType="POM_string" maxStringLength="8" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_prod_line" description="YFAI ERP Product Line"
+         attributeType="POM_string" maxStringLength="4" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_um" description="YFAI ERP Unit of Measure"
+         attributeType="POM_string" maxStringLength="2" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_status" description="YFAI ERP Status" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue="Active"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_customer_number" description="YFAI Customer Part Number"
+         attributeType="POM_string" maxStringLength="128" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+   </TcClass>
+   <TcClass className="YF6_Color_PartRevMasterS" parentClassName="ItemVersionMaster"
+       isExportable="false" isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_Color_PartRevision" parentClassName="ItemRevision" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_EBOMItemRelation" parentClassName="ImanRelation" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_ERP_Item_MasterStorage" parentClassName="ItemMaster" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description="">
+     <TcAttribute attributeName="yf6_pt_um" description="YFAI ERP Unit of Measure"
+         attributeType="POM_string" maxStringLength="2" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_desc1" description="YFAI ERP Description 1"
+         attributeType="POM_string" maxStringLength="24" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_desc2" description="YFAI ERP Description 2"
+         attributeType="POM_string" maxStringLength="24" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_prod_line" description="YFAI ERP Product Line"
+         attributeType="POM_string" maxStringLength="4" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_part_type" description="YFAI ERP Item Type"
+         attributeType="POM_string" maxStringLength="8" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_status" description="YFAI ERP Status" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue="Active"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_group" description="YFAI ERP Item Group" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue=""
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_net_wt" description="YFAI ERP Net Weight"
+         attributeType="POM_double" maxStringLength="0" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_net_wt_um" description="YFAI ERP Net Weight UoM"
+         attributeType="POM_string" maxStringLength="2" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_comments" description="YFAI Comments" attributeType="POM_string"
+         maxStringLength="500" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue=""
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_customer_number" description="YFAI Customer Part Number"
+         attributeType="POM_string" maxStringLength="128" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+   </TcClass>
+   <TcClass className="YF6_MBOM_Item" parentClassName="Item" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_MBOM_ItemMasterS" parentClassName="ItemMaster" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description="">
+     <TcAttribute attributeName="yf6_comments" description="YFAI Comments" attributeType="POM_string"
+         maxStringLength="500" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue=""
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_customer_number" description="YFAI Customer Part Number"
+         attributeType="POM_string" maxStringLength="128" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_desc1" description="YFAI ERP Description 1"
+         attributeType="POM_string" maxStringLength="24" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_desc2" description="YFAI ERP Description 2"
+         attributeType="POM_string" maxStringLength="24" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_group" description="YFAI ERP Item Group" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" lowerBoundValue=""
+         upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_net_wt" description="YFAI ERP Net Weight"
+         attributeType="POM_double" maxStringLength="0" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         initialValue="" lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_net_wt_um" description="YFAI ERP Net Weight UoM"
+         attributeType="POM_string" maxStringLength="2" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_part_type" description="YFAI ERP Item Type"
+         attributeType="POM_string" maxStringLength="8" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_prod_line" description="YFAI ERP Product Line"
+         attributeType="POM_string" maxStringLength="4" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_status" description="YFAI ERP Status" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="true" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false" initialValue="Active"
+         lowerBoundValue="" upperBoundValue=""/>
+     <TcAttribute attributeName="yf6_pt_um" description="YFAI ERP Unit of Measure"
+         attributeType="POM_string" maxStringLength="2" isArray="false" followOnExport="false"
+         isNullsAllowed="true" isUnique="false" isPublicRead="true" isPublicWrite="true"
+         isCandidateKey="false" isTransient="false" exportAsString="false" noBackpointer="false"
+         lowerBoundValue="" upperBoundValue=""/>
+   </TcClass>
+   <TcClass className="YF6_MBOM_ItemRevMasterS" parentClassName="ItemVersionMaster"
+       isExportable="false" isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcClass className="YF6_MBOM_ItemRevision" parentClassName="ItemRevision" isExportable="false"
+       isUninstantiable="false" isUninheritable="false" description=""/>
+   <TcAttributeAttach className="Fnd0GeneralAudit">
+     <TcAttribute attributeName="yf6_pt_desc1" description="" attributeType="POM_string"
+         maxStringLength="24" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_desc1Ovl" description="" attributeType="POM_string"
+         maxStringLength="24" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_desc2" description="" attributeType="POM_string"
+         maxStringLength="24" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_desc2Ovl" description="" attributeType="POM_string"
+         maxStringLength="24" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_group" description="" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_groupOvl" description="" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_net_wt" description="" attributeType="POM_double"
+         maxStringLength="0" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_net_wt_um" description="" attributeType="POM_string"
+         maxStringLength="2" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_net_wt_umOvl" description="" attributeType="POM_string"
+         maxStringLength="2" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_net_wtOvl" description="" attributeType="POM_double"
+         maxStringLength="0" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_part_type" description="" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_part_typeOvl" description="" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_prod_line" description="" attributeType="POM_string"
+         maxStringLength="4" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_prod_lineOvl" description="" attributeType="POM_string"
+         maxStringLength="4" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_status" description="" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_statusOvl" description="" attributeType="POM_string"
+         maxStringLength="8" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_um" description="" attributeType="POM_string"
+         maxStringLength="2" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+     <TcAttribute attributeName="yf6_pt_umOvl" description="" attributeType="POM_string"
+         maxStringLength="2" isArray="false" followOnExport="false" isNullsAllowed="true"
+         isUnique="false" isPublicRead="true" isPublicWrite="false" isCandidateKey="false"
+         isTransient="false" exportAsString="false" noBackpointer="false"/>
+   </TcAttributeAttach>
+   <OperationInputType typeName="YF6_Color_GroupCreI" parentTypeName="ItemCreI" typeClassName="YF6_Color_GroupCreI"
+       description="" isAbstract="false" artifactName="YF6_Color_GroupCreI"/>
+   <OperationInputType typeName="YF6_Color_GroupMasterCreI" parentTypeName="Item MasterCreI"
+       typeClassName="YF6_Color_GroupMasterCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupMasterCreI"/>
+   <OperationInputType typeName="YF6_Color_GroupMasterSCreI" parentTypeName="ItemMasterCreI"
+       typeClassName="YF6_Color_GroupMasterSCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupMasterSCreI"/>
+   <OperationInputType typeName="YF6_Color_GroupMasterSSvAI" parentTypeName="ItemMasterSvAI"
+       typeClassName="YF6_Color_GroupMasterSSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupMasterSSvAI"/>
+   <OperationInputType typeName="YF6_Color_GroupMasterSvAI" parentTypeName="Item MasterSvAI"
+       typeClassName="YF6_Color_GroupMasterSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupMasterSvAI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevMasterSCreI" parentTypeName="ItemVersionMasterCreI"
+       typeClassName="YF6_Color_GroupRevMasterSCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevMasterSCreI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevMasterSSvAI" parentTypeName="ItemVersionMasterSvAI"
+       typeClassName="YF6_Color_GroupRevMasterSSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevMasterSSvAI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevisio_alt0CreI" parentTypeName="ItemRevision MasterCreI"
+       typeClassName="YF6_Color_GroupRevisio_alt0CreI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevisio_alt0CreI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevisio_alt0SvAI" parentTypeName="ItemRevision MasterSvAI"
+       typeClassName="YF6_Color_GroupRevisio_alt0SvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevisio_alt0SvAI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevisionCreI" parentTypeName="ItemRevisionCreI"
+       typeClassName="YF6_Color_GroupRevisionCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevisionCreI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevisionRevI" parentTypeName="ItemRevisionRevI"
+       typeClassName="YF6_Color_GroupRevisionRevI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevisionRevI"/>
+   <OperationInputType typeName="YF6_Color_GroupRevisionSvAI" parentTypeName="ItemRevisionSvAI"
+       typeClassName="YF6_Color_GroupRevisionSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevisionSvAI"/>
+   <OperationInputType typeName="YF6_Color_GroupSvAI" parentTypeName="ItemSvAI" typeClassName="YF6_Color_GroupSvAI"
+       description="" isAbstract="false" artifactName="YF6_Color_GroupSvAI"/>
+   <OperationInputType typeName="YF6_Color_PartCreI" parentTypeName="ItemCreI" typeClassName="YF6_Color_PartCreI"
+       description="" isAbstract="false" artifactName="YF6_Color_PartCreI"/>
+   <OperationInputType typeName="YF6_Color_PartMasterCreI" parentTypeName="Item MasterCreI"
+       typeClassName="YF6_Color_PartMasterCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartMasterCreI"/>
+   <OperationInputType typeName="YF6_Color_PartMasterSCreI" parentTypeName="ItemMasterCreI"
+       typeClassName="YF6_Color_PartMasterSCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartMasterSCreI"/>
+   <OperationInputType typeName="YF6_Color_PartMasterSSvAI" parentTypeName="ItemMasterSvAI"
+       typeClassName="YF6_Color_PartMasterSSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartMasterSSvAI"/>
+   <OperationInputType typeName="YF6_Color_PartMasterSvAI" parentTypeName="Item MasterSvAI"
+       typeClassName="YF6_Color_PartMasterSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartMasterSvAI"/>
+   <OperationInputType typeName="YF6_Color_PartRevMasterSCreI" parentTypeName="ItemVersionMasterCreI"
+       typeClassName="YF6_Color_PartRevMasterSCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevMasterSCreI"/>
+   <OperationInputType typeName="YF6_Color_PartRevMasterSSvAI" parentTypeName="ItemVersionMasterSvAI"
+       typeClassName="YF6_Color_PartRevMasterSSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevMasterSSvAI"/>
+   <OperationInputType typeName="YF6_Color_PartRevisionCreI" parentTypeName="ItemRevisionCreI"
+       typeClassName="YF6_Color_PartRevisionCreI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevisionCreI"/>
+   <OperationInputType typeName="YF6_Color_PartRevisionRevI" parentTypeName="ItemRevisionRevI"
+       typeClassName="YF6_Color_PartRevisionRevI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevisionRevI"/>
+   <OperationInputType typeName="YF6_Color_PartRevisionSvAI" parentTypeName="ItemRevisionSvAI"
+       typeClassName="YF6_Color_PartRevisionSvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevisionSvAI"/>
+   <OperationInputType typeName="YF6_Color_PartRevision_alt0CreI" parentTypeName="ItemRevision MasterCreI"
+       typeClassName="YF6_Color_PartRevision_alt0CreI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevision_alt0CreI"/>
+   <OperationInputType typeName="YF6_Color_PartRevision_alt0SvAI" parentTypeName="ItemRevision MasterSvAI"
+       typeClassName="YF6_Color_PartRevision_alt0SvAI" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevision_alt0SvAI"/>
+   <OperationInputType typeName="YF6_Color_PartSvAI" parentTypeName="ItemSvAI" typeClassName="YF6_Color_PartSvAI"
+       description="" isAbstract="false" artifactName="YF6_Color_PartSvAI"/>
+   <OperationInputType typeName="YF6_EBOMItemRelationCreI" parentTypeName="ImanRelationCreI"
+       typeClassName="YF6_EBOMItemRelationCreI" description="" isAbstract="false"
+       artifactName="YF6_EBOMItemRelationCreI"/>
+   <OperationInputType typeName="YF6_EBOMItemRelationSvAI" parentTypeName="ImanRelationSvAI"
+       typeClassName="YF6_EBOMItemRelationSvAI" description="" isAbstract="false"
+       artifactName="YF6_EBOMItemRelationSvAI"/>
+   <OperationInputType typeName="YF6_ERP_Item_MasterCreI" parentTypeName="Item MasterCreI"
+       typeClassName="YF6_ERP_Item_MasterCreI" description="" isAbstract="false" artifactName="YF6_ERP_Item_MasterCreI"/>
+   <OperationInputType typeName="YF6_ERP_Item_MasterStorageCreI" parentTypeName="ItemMasterCreI"
+       typeClassName="YF6_ERP_Item_MasterStorageCreI" description="" isAbstract="false"
+       artifactName="YF6_ERP_Item_MasterStorageCreI"/>
+   <OperationInputType typeName="YF6_ERP_Item_MasterStorageSvAI" parentTypeName="ItemMasterSvAI"
+       typeClassName="YF6_ERP_Item_MasterStorageSvAI" description="" isAbstract="false"
+       artifactName="YF6_ERP_Item_MasterStorageSvAI"/>
+   <OperationInputType typeName="YF6_ERP_Item_MasterSvAI" parentTypeName="Item MasterSvAI"
+       typeClassName="YF6_ERP_Item_MasterSvAI" description="" isAbstract="false" artifactName="YF6_ERP_Item_MasterSvAI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemCreI" parentTypeName="ItemCreI" typeClassName="YF6_MBOM_ItemCreI"
+       description="" isAbstract="false" artifactName="YF6_MBOM_ItemCreI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemMasterCreI" parentTypeName="Item MasterCreI"
+       typeClassName="YF6_MBOM_ItemMasterCreI" description="" isAbstract="false" artifactName="YF6_MBOM_ItemMasterCreI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemMasterSCreI" parentTypeName="ItemMasterCreI"
+       typeClassName="YF6_MBOM_ItemMasterSCreI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemMasterSCreI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemMasterSSvAI" parentTypeName="ItemMasterSvAI"
+       typeClassName="YF6_MBOM_ItemMasterSSvAI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemMasterSSvAI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemMasterSvAI" parentTypeName="Item MasterSvAI"
+       typeClassName="YF6_MBOM_ItemMasterSvAI" description="" isAbstract="false" artifactName="YF6_MBOM_ItemMasterSvAI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevMasterSCreI" parentTypeName="ItemVersionMasterCreI"
+       typeClassName="YF6_MBOM_ItemRevMasterSCreI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevMasterSCreI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevMasterSSvAI" parentTypeName="ItemVersionMasterSvAI"
+       typeClassName="YF6_MBOM_ItemRevMasterSSvAI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevMasterSSvAI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevisionCreI" parentTypeName="ItemRevisionCreI"
+       typeClassName="YF6_MBOM_ItemRevisionCreI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevisionCreI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevisionM_alt0CreI" parentTypeName="ItemRevision MasterCreI"
+       typeClassName="YF6_MBOM_ItemRevisionM_alt0CreI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevisionM_alt0CreI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevisionM_alt0SvAI" parentTypeName="ItemRevision MasterSvAI"
+       typeClassName="YF6_MBOM_ItemRevisionM_alt0SvAI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevisionM_alt0SvAI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevisionRevI" parentTypeName="ItemRevisionRevI"
+       typeClassName="YF6_MBOM_ItemRevisionRevI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevisionRevI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemRevisionSvAI" parentTypeName="ItemRevisionSvAI"
+       typeClassName="YF6_MBOM_ItemRevisionSvAI" description="" isAbstract="false"
+       artifactName="YF6_MBOM_ItemRevisionSvAI"/>
+   <OperationInputType typeName="YF6_MBOM_ItemSvAI" parentTypeName="ItemSvAI" typeClassName="YF6_MBOM_ItemSvAI"
+       description="" isAbstract="false" artifactName="YF6_MBOM_ItemSvAI"/>
+   <TcForm typeName="YF6_Color_GroupMaster" parentTypeName="Item Master" typeClassName="Form"
+       description="" isAbstract="false" artifactName="YF6_Color_GroupMaster" formStorageClassName="YF6_Color_GroupMasterS"/>
+   <TcForm typeName="YF6_Color_GroupRevisionMaster" parentTypeName="ItemRevision Master"
+       typeClassName="Form" description="" isAbstract="false" artifactName="YF6_Color_GroupRevisionMaster"
+       formStorageClassName="YF6_Color_GroupRevMasterS"/>
+   <TcForm typeName="YF6_Color_PartMaster" parentTypeName="Item Master" typeClassName="Form"
+       description="" isAbstract="false" artifactName="YF6_Color_PartMaster" formStorageClassName="YF6_Color_PartMasterS"/>
+   <TcForm typeName="YF6_Color_PartRevisionMaster" parentTypeName="ItemRevision Master"
+       typeClassName="Form" description="" isAbstract="false" artifactName="YF6_Color_PartRevisionMaster"
+       formStorageClassName="YF6_Color_PartRevMasterS"/>
+   <TcForm typeName="YF6_ERP_Item_Master" parentTypeName="Item Master" typeClassName="Form"
+       description="YFAI Item Master Form" isAbstract="false" artifactName="YF6_ERP_Item_Master"
+       formStorageClassName="YF6_ERP_Item_MasterStorage"/>
+   <TcForm typeName="YF6_MBOM_ItemMaster" parentTypeName="Item Master" typeClassName="Form"
+       description="" isAbstract="false" artifactName="YF6_MBOM_ItemMaster" formStorageClassName="YF6_MBOM_ItemMasterS"/>
+   <TcForm typeName="YF6_MBOM_ItemRevisionMaster" parentTypeName="ItemRevision Master"
+       typeClassName="Form" description="" isAbstract="false" artifactName="YF6_MBOM_ItemRevisionMaster"
+       formStorageClassName="YF6_MBOM_ItemRevMasterS"/>
+   <TcStandardType typeName="YF6_Color_Group" parentTypeName="Item" typeClassName="YF6_Color_Group"
+       description="" isAbstract="false" artifactName="YF6_Color_Group"/>
+   <TcStandardType typeName="YF6_Color_GroupMasterS" parentTypeName="ItemMaster" typeClassName="YF6_Color_GroupMasterS"
+       description="" isAbstract="false" artifactName="YF6_Color_GroupMasterS"/>
+   <TcStandardType typeName="YF6_Color_GroupRevMasterS" parentTypeName="ItemVersionMaster"
+       typeClassName="YF6_Color_GroupRevMasterS" description="" isAbstract="false"
+       artifactName="YF6_Color_GroupRevMasterS"/>
+   <TcStandardType typeName="YF6_Color_GroupRevision" parentTypeName="ItemRevision"
+       typeClassName="YF6_Color_GroupRevision" description="" isAbstract="false" artifactName="YF6_Color_GroupRevision"/>
+   <TcStandardType typeName="YF6_Color_Part" parentTypeName="Item" typeClassName="YF6_Color_Part"
+       description="" isAbstract="false" artifactName="YF6_Color_Part"/>
+   <TcStandardType typeName="YF6_Color_PartMasterS" parentTypeName="ItemMaster" typeClassName="YF6_Color_PartMasterS"
+       description="" isAbstract="false" artifactName="YF6_Color_PartMasterS"/>
+   <TcStandardType typeName="YF6_Color_PartRevMasterS" parentTypeName="ItemVersionMaster"
+       typeClassName="YF6_Color_PartRevMasterS" description="" isAbstract="false"
+       artifactName="YF6_Color_PartRevMasterS"/>
+   <TcStandardType typeName="YF6_Color_PartRevision" parentTypeName="ItemRevision"
+       typeClassName="YF6_Color_PartRevision" description="" isAbstract="false" artifactName="YF6_Color_PartRevision"/>
+   <TcStandardType typeName="YF6_EBOMItemRelation" parentTypeName="ImanRelation" typeClassName="YF6_EBOMItemRelation"
+       description="" isAbstract="false" artifactName="YF6_EBOMItemRelation"/>
+   <TcStandardType typeName="YF6_ERP_Item_MasterStorage" parentTypeName="ItemMaster"
+       typeClassName="YF6_ERP_Item_MasterStorage" description="" isAbstract="false"
+       artifactName="YF6_ERP_Item_MasterStorage"/>
+   <TcStandardType typeName="YF6_MBOM_Item" parentTypeName="Item" typeClassName="YF6_MBOM_Item"
+       description="" isAbstract="false" artifactName="YF6_MBOM_Item"/>
+   <TcStandardType typeName="YF6_MBOM_ItemMasterS" parentTypeName="ItemMaster" typeClassName="YF6_MBOM_ItemMasterS"
+       description="" isAbstract="false" artifactName="YF6_MBOM_ItemMasterS"/>
+   <TcStandardType typeName="YF6_MBOM_ItemRevMasterS" parentTypeName="ItemVersionMaster"
+       typeClassName="YF6_MBOM_ItemRevMasterS" description="" isAbstract="false" artifactName="YF6_MBOM_ItemRevMasterS"/>
+   <TcStandardType typeName="YF6_MBOM_ItemRevision" parentTypeName="ItemRevision"
+       typeClassName="YF6_MBOM_ItemRevision" description="" isAbstract="false" artifactName="YF6_MBOM_ItemRevision"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_Group" value="YF6_Color_GroupCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_GroupMaster"
+       value="YF6_Color_GroupMasterCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_GroupMasterS"
+       value="YF6_Color_GroupMasterSCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_GroupRevision"
+       value="YF6_Color_GroupRevisionCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_GroupRevisionMaster"
+       value="YF6_Color_GroupRevisio_alt0CreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_GroupRevMasterS"
+       value="YF6_Color_GroupRevMasterSCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_Part" value="YF6_Color_PartCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_PartMaster"
+       value="YF6_Color_PartMasterCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_PartMasterS"
+       value="YF6_Color_PartMasterSCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_PartRevision"
+       value="YF6_Color_PartRevisionCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_PartRevisionMaster"
+       value="YF6_Color_PartRevision_alt0CreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_Color_PartRevMasterS"
+       value="YF6_Color_PartRevMasterSCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_EBOMItemRelation"
+       value="YF6_EBOMItemRelationCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_ERP_Item_Master"
+       value="YF6_ERP_Item_MasterCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_ERP_Item_MasterStorage"
+       value="YF6_ERP_Item_MasterStorageCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_MBOM_Item" value="YF6_MBOM_ItemCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_MBOM_ItemMaster"
+       value="YF6_MBOM_ItemMasterCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_MBOM_ItemMasterS"
+       value="YF6_MBOM_ItemMasterSCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_MBOM_ItemRevision"
+       value="YF6_MBOM_ItemRevisionCreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_MBOM_ItemRevisionMaster"
+       value="YF6_MBOM_ItemRevisionM_alt0CreI"/>
+   <TcTypeConstantAttach constantName="CreateInput" typeName="YF6_MBOM_ItemRevMasterS"
+       value="YF6_MBOM_ItemRevMasterSCreI"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_Color_Group" value="YF6_nonpart.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_Color_GroupRevision"
+       value="YF6_nonpart_rev.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_Color_Part" value="YF6_color_icon.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_Color_PartMaster" value="YF6_gl_form.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_Color_PartRevision"
+       value="YF6_color_icon_rev.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_ERP_Item_Master" value="YF6_gl_form.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_MBOM_Item" value="YF6_item_blue_16.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_MBOM_ItemMaster" value="YF6_gl_form.png"/>
+   <TcTypeConstantAttach constantName="Fnd0Icon" typeName="YF6_MBOM_ItemRevision"
+       value="YF6_itemrevision_blue_16.png"/>
+   <TcTypeConstantAttach constantName="ItemRevision" typeName="YF6_Color_Group" value="YF6_Color_GroupRevision"/>
+   <TcTypeConstantAttach constantName="ItemRevision" typeName="YF6_Color_Part" value="YF6_Color_PartRevision"/>
+   <TcTypeConstantAttach constantName="ItemRevision" typeName="YF6_MBOM_Item" value="YF6_MBOM_ItemRevision"/>
+   <TcTypeConstantAttach constantName="MasterForm" typeName="YF6_Color_Group" value="YF6_Color_GroupMaster"/>
+   <TcTypeConstantAttach constantName="MasterForm" typeName="YF6_Color_GroupRevision"
+       value="YF6_Color_GroupRevisionMaster"/>
+   <TcTypeConstantAttach constantName="MasterForm" typeName="YF6_Color_Part" value="YF6_Color_PartMaster"/>
+   <TcTypeConstantAttach constantName="MasterForm" typeName="YF6_Color_PartRevision"
+       value="YF6_Color_PartRevisionMaster"/>
+   <TcTypeConstantAttach constantName="MasterForm" typeName="YF6_MBOM_Item" value="YF6_MBOM_ItemMaster"/>
+   <TcTypeConstantAttach constantName="MasterForm" typeName="YF6_MBOM_ItemRevision"
+       value="YF6_MBOM_ItemRevisionMaster"/>
+   <TcTypeConstantAttach constantName="ReviseInput" typeName="YF6_Color_GroupRevision"
+       value="YF6_Color_GroupRevisionRevI"/>
+   <TcTypeConstantAttach constantName="ReviseInput" typeName="YF6_Color_PartRevision"
+       value="YF6_Color_PartRevisionRevI"/>
+   <TcTypeConstantAttach constantName="ReviseInput" typeName="YF6_MBOM_ItemRevision"
+       value="YF6_MBOM_ItemRevisionRevI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_Group" value="YF6_Color_GroupSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_GroupMaster"
+       value="YF6_Color_GroupMasterSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_GroupMasterS"
+       value="YF6_Color_GroupMasterSSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_GroupRevision"
+       value="YF6_Color_GroupRevisionSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_GroupRevisionMaster"
+       value="YF6_Color_GroupRevisio_alt0SvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_GroupRevMasterS"
+       value="YF6_Color_GroupRevMasterSSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_Part" value="YF6_Color_PartSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_PartMaster"
+       value="YF6_Color_PartMasterSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_PartMasterS"
+       value="YF6_Color_PartMasterSSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_PartRevision"
+       value="YF6_Color_PartRevisionSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_PartRevisionMaster"
+       value="YF6_Color_PartRevision_alt0SvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_Color_PartRevMasterS"
+       value="YF6_Color_PartRevMasterSSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_EBOMItemRelation"
+       value="YF6_EBOMItemRelationSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_ERP_Item_Master"
+       value="YF6_ERP_Item_MasterSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_ERP_Item_MasterStorage"
+       value="YF6_ERP_Item_MasterStorageSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_MBOM_Item" value="YF6_MBOM_ItemSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_MBOM_ItemMaster"
+       value="YF6_MBOM_ItemMasterSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_MBOM_ItemMasterS"
+       value="YF6_MBOM_ItemMasterSSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_MBOM_ItemRevision"
+       value="YF6_MBOM_ItemRevisionSvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_MBOM_ItemRevisionMaster"
+       value="YF6_MBOM_ItemRevisionM_alt0SvAI"/>
+   <TcTypeConstantAttach constantName="SaveAsInput" typeName="YF6_MBOM_ItemRevMasterS"
+       value="YF6_MBOM_ItemRevMasterSSvAI"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_comments" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_customer_number" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_desc1" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_desc2" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_group" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_net_wt" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_net_wt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_part_type" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_prod_line" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_status" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_comments" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_customer_number" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_desc1" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_desc2" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_group" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_net_wt" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_net_wt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_part_type" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_prod_line" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_status" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_comments" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_customer_number" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_desc1" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_desc2" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_group" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_net_wt" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_net_wt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_part_type" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_prod_line" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_status" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_comments" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_customer_number" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_desc1" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_desc2" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_group" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_net_wt" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_net_wt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_part_type" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_prod_line" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_status" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_comments" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_customer_number" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_desc1" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_desc2" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_group" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_net_wt" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_net_wt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_part_type" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_prod_line" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_status" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_um" value="true"/>
+   <TcPropertyConstantAttach constantName="Enabled" typeName="YF6_MBOM_ItemRevisionMaster"
+       propertyName="yf6_pt_desc1" value="true"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_desc1Ovl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_desc2" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_desc2Ovl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_group" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_groupOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_net_wt" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_net_wt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_net_wt_umOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_net_wtOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_part_type" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_part_typeOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_prod_line" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_prod_lineOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_status" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_statusOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="Fnd0GeneralAudit"
+       propertyName="yf6_pt_umOvl" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_comments" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_customer_number" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_desc2" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_group" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_net_wt" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_net_wt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_part_type" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_prod_line" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_status" value="Read"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartMaster"
+       propertyName="yf6_pt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_comments" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_customer_number" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_desc2" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_group" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_net_wt" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_net_wt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_part_type" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_prod_line" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_status" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_Color_PartRevision"
+       propertyName="yf6_pt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_comments" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_customer_number" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_desc2" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_group" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_net_wt" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_net_wt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_part_type" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_prod_line" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_status" value="Read"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_ERP_Item_Master"
+       propertyName="yf6_pt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_comments" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_customer_number" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_desc2" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_group" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_net_wt" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_net_wt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_part_type" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_prod_line" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_status" value="Read"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemMaster"
+       propertyName="yf6_pt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_comments" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_customer_number" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_desc2" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_group" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_net_wt" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_net_wt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_part_type" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_prod_line" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_status" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevision"
+       propertyName="yf6_pt_um" value="Write"/>
+   <TcPropertyConstantAttach constantName="Modifiable" typeName="YF6_MBOM_ItemRevisionMaster"
+       propertyName="yf6_pt_desc1" value="Write"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_comments"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_comments" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_comments"
+       description="YFAI Comments"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_customer_number"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_customer_number"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_customer_number"
+       description="YFAI Customer Part Number"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_desc1"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_desc1" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_desc1"
+       description="YFAI ERP Description 1"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_desc2"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_desc2" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_desc2"
+       description="YFAI ERP Description 2"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_group"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_group" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_group"
+       description="YFAI ERP Item Group"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_net_wt"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_net_wt" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_net_wt"
+       description="YFAI ERP Net Weight"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_net_wt_um"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_net_wt_um"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_net_wt_um"
+       description="YFAI ERP Net Weight UoM"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_part_type"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_part_type"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_part_type"
+       description="YFAI ERP Item Type"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_prod_line"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_prod_line"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_prod_line"
+       description="YFAI ERP Product Line"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_status"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_status" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_status"
+       description="YFAI ERP Status"/>
+   <TcCompoundPropertyRule destTypeName="YF6_Color_PartRevision" destPropertyName="yf6_pt_um"
+       sourceTypeName="YF6_Color_PartMaster" sourcePropertyName="yf6_pt_um" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_Color_Part).REF(item_master_tag,YF6_Color_PartMaster).yf6_pt_um"
+       description="YFAI ERP Unit of Measure"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_comments"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_comments" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_comments"
+       description="YFAI Comments"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_customer_number"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_customer_number"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_customer_number"
+       description="YFAI Customer Part Number"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_desc1"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_desc1" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_desc1"
+       description="YFAI ERP Description 1"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_desc2"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_desc2" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_desc2"
+       description="YFAI ERP Description 2"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_group"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_group" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_group"
+       description="YFAI ERP Item Group"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_net_wt"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_net_wt" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_net_wt"
+       description="YFAI ERP Net Weight"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_net_wt_um"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_net_wt_um"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_net_wt_um"
+       description="YFAI ERP Net Weight UoM"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_part_type"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_part_type"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_part_type"
+       description="YFAI ERP Item Type"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_prod_line"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_prod_line"
+       isReadOnly="false" pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_prod_line"
+       description="YFAI ERP Product Line"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_status"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_status" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_status"
+       description="YFAI ERP Status"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevision" destPropertyName="yf6_pt_um"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_um" isReadOnly="false"
+       pathToSource="REF(items_tag,YF6_MBOM_Item).REF(item_master_tag,YF6_MBOM_ItemMaster).yf6_pt_um"
+       description="YFAI ERP Unit of Measure"/>
+   <TcCompoundPropertyRule destTypeName="YF6_MBOM_ItemRevisionMaster" destPropertyName="yf6_pt_desc1"
+       sourceTypeName="YF6_MBOM_ItemMaster" sourcePropertyName="yf6_pt_desc1" isReadOnly="false"
+       pathToSource="REF(item_for_form,YF6_MBOM_ItemMaster).yf6_pt_desc1" description=""/>
+   <TcNamingRule name="YF6_Color_Group_Rev_Naming_Rule">
+     <TcPattern generateCounters="true" patternString="NNN" description="YFAI Color Group Revision Naming Rule">
+       <TcCounter initialValue="000" maximumValue="999"/>
+     </TcPattern>
+   </TcNamingRule>
+   <TcNamingRule name="YF6_Color_Part_Naming_Rule">
+     <TcPattern generateCounters="false" patternString="&quot;Y&quot;NNNNNNN"/>
+     <TcPattern generateCounters="false" patternString="&quot;Y&quot;NNNNNNN&quot;-&quot;??"/>
+     <TcPattern generateCounters="false" patternString="&quot;Y&quot;NNNNNNN&quot;-&quot;???"/>
+     <TcPattern generateCounters="false" patternString="&quot;Y&quot;NNNNNNN&quot;-&quot;??????"/>
+     <TcPattern generateCounters="false" patternString="&quot;Y&quot;NNNNNNN&quot;-&quot;??????&quot;-&quot;??"/>
+   </TcNamingRule>
+   <TcNamingRule name="YF6_Color_Part_Rev_Naming_Rule">
+     <TcPattern generateCounters="true" patternString="NNN" description="YFAI Color Revision Naming Rule">
+       <TcCounter initialValue="000" maximumValue="999"/>
+     </TcPattern>
+   </TcNamingRule>
+   <TcNamingRule name="YF6_MBOM_Naming_Rule">
+     <TcPattern generateCounters="true" patternString="&quot;M&quot;NNNNNNN" description="YFAI MBOM Naming Rule">
+       <TcCounter initialValue="M0000000" maximumValue="M9999999"/>
+     </TcPattern>
+     <TcPattern generateCounters="false" patternString="&quot;M&quot;NNNNNNN&quot;-&quot;??"/>
+     <TcPattern generateCounters="false" patternString="&quot;M&quot;NNNNNNN&quot;-&quot;???"/>
+     <TcPattern generateCounters="false" patternString="&quot;M&quot;NNNNNNN&quot;-&quot;??????"/>
+     <TcPattern generateCounters="false" patternString="&quot;M&quot;NNNNNNN&quot;-&quot;??????&quot;-&quot;??"/>
+   </TcNamingRule>
+   <TcNamingRule name="YF6_MBOM_Rev_Naming_Rule">
+     <TcPattern generateCounters="true" patternString="NNN" description="YFAI MBOM Revision Naming Rule">
+       <TcCounter initialValue="000" maximumValue="999"/>
+     </TcPattern>
+   </TcNamingRule>
+   <TcNamingRuleAttach ruleName="YF6_Color_Group_Rev_Naming_Rule" typeName="YF6_Color_Group"
+       propertyName="item_revision_id" case="Mix" conditionName="isTrue" override="false"
+       ruleType="NamingRule" description=""/>
+   <TcNamingRuleAttach ruleName="YF6_Color_Part_Naming_Rule" typeName="YF6_Color_Part"
+       propertyName="item_id" case="Mix" conditionName="isTrue" override="false" ruleType="NamingRule"
+       description=""/>
+   <TcNamingRuleAttach ruleName="YF6_Color_Part_Rev_Naming_Rule" typeName="YF6_Color_Part"
+       propertyName="item_revision_id" case="Mix" conditionName="isTrue" override="false"
+       ruleType="NamingRule" description=""/>
+   <TcNamingRuleAttach ruleName="YF6_MBOM_Naming_Rule" typeName="YF6_MBOM_Item" propertyName="item_id"
+       case="Mix" conditionName="isTrue" override="false" ruleType="NamingRule" description=""/>
+   <TcNamingRuleAttach ruleName="YF6_MBOM_Rev_Naming_Rule" typeName="YF6_MBOM_Item"
+       propertyName="item_revision_id" case="Mix" conditionName="isTrue" override="false"
+       ruleType="NamingRule" description=""/>
+   <TcLOV name="YF6_LOV_global_strategic_gr_ap" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_global_strategic_gr_na" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_benz" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_biac" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_bmw" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_brilliance_auto" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_changan" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_chery" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_dongfeng" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_faw" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_fca" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_ford" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_geely" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_gm" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_guangzhou_auto" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_hawtai" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_hyundai_kia" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_jianghuai" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_mazda" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_mercedes" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_psa" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_renault_nissan" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_saic" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_saic_gm_wuling" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_suzuki" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_vw" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_ap_zotye" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_avtovaz" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_bmw" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_fca" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_ford" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_gaz" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_gm" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_honda" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_hyundai_kia" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_jaguar" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_landrover" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_mazda" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_mercedes" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_mitsubishi" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_psa" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_renault_nissan" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_rover" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_subaru" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_suzuki" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_tesla" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_toyota" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_undefined" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_volvo" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_gr_na_vw" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_pt_group" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_pt_net_wt_um" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_pt_prod_line" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_pt_prod_line_region" lovType="ListOfValuesString" usage="Exhaustive"
+       description="" isManagedExternally="true"/>
+   <TcLOV name="YF6_LOV_pt_um" lovType="ListOfValuesString" usage="Exhaustive" description=""
+       isManagedExternally="true"/>
+   <TcLOVAttach lovName="YF6_LOV_pt_group" typeName="YF6_Color_PartMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_group" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_group" typeName="YF6_ERP_Item_Master">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_group" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_group" typeName="YF6_MBOM_ItemMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_group" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_net_wt_um" typeName="YF6_Color_PartMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_net_wt_um" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_net_wt_um" typeName="YF6_ERP_Item_Master">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_net_wt_um" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_net_wt_um" typeName="YF6_MBOM_ItemMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_net_wt_um" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_prod_line_region" typeName="YF6_Color_PartMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_prod_line" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_prod_line_region" typeName="YF6_ERP_Item_Master">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_prod_line" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_prod_line_region" typeName="YF6_MBOM_ItemMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_prod_line" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_um" typeName="YF6_Color_PartMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_um" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_um" typeName="YF6_ERP_Item_Master">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_um" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcLOVAttach lovName="YF6_LOV_pt_um" typeName="YF6_MBOM_ItemMaster">
+     <TcLOVAttachPropertyInfo valuePropertyName="yf6_pt_um" conditionName="isTrue"
+         override="false" level="0"/>
+   </TcLOVAttach>
+   <TcStatus statusName="YF6_Send_to_ERP" description="YFAI Send to ERP Status"/>
+   <AuditDefinition primaryType="YF6_MBOM_ItemMaster" eventType="__Modify" condition="isTrue"
+       isActive="true" eventTypeMapping="Form:__Modify" trackOldValues="true" auditPropertyChangeOnly="false"
+       description="">
+     <AuditExtension name="Fnd0CICO_auditloghandler"/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_desc1"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_desc1"
+         ovlTargetPropertyName="yf6_pt_desc1Ovl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_desc2"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_desc2"
+         ovlTargetPropertyName="yf6_pt_desc2Ovl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_group"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_group"
+         ovlTargetPropertyName="yf6_pt_groupOvl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_net_wt"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_net_wt"
+         ovlTargetPropertyName="yf6_pt_net_wtOvl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_net_wt_um"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_net_wt_um"
+         ovlTargetPropertyName="yf6_pt_net_wt_umOvl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_part_type"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_part_type"
+         ovlTargetPropertyName="yf6_pt_part_typeOvl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_prod_line"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_prod_line"
+         ovlTargetPropertyName="yf6_pt_prod_lineOvl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_status"
+         isSecondary="false" enableTracking="track_always" targetPropertyName="yf6_pt_status"
+         ovlTargetPropertyName="yf6_pt_statusOvl" refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+     <AuditDefProperty objectType="YF6_MBOM_ItemMaster" propertyName="yf6_pt_um" isSecondary="false"
+         enableTracking="track_always" targetPropertyName="yf6_pt_um" ovlTargetPropertyName="yf6_pt_umOvl"
+         refDisplayPropertyName="" ovlRefDisplayPropertyName=""/>
+   </AuditDefinition>
+</Add>
+</TcBusinessData>

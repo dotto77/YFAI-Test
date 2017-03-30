@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:24:51 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_renault_nissan" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="H/U61B" description="Frontier" conditionName="isTrue"/>
+      <TcLOVValue value="H60A" description="Frontier" conditionName="isTrue"/>
+      <TcLOVValue value="H61L" description="Titan" conditionName="isTrue"/>
+      <TcLOVValue value="L12F" description="Sentra" conditionName="isTrue"/>
+      <TcLOVValue value="L42L" description="Altima" conditionName="isTrue"/>
+      <TcLOVValue value="NXX" description="Nissan other" conditionName="isTrue"/>
+      <TcLOVValue value="P42K" description="Pathfinder" conditionName="isTrue"/>
+      <TcLOVValue value="P61A" description="Armada" conditionName="isTrue"/>
+      <TcLOVValue value="PXX" description="Renault other" conditionName="isTrue"/>
+      <TcLOVValue value="X61F" description="NV1500-3500" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

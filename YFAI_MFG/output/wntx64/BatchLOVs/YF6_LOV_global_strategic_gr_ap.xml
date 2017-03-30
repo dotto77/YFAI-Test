@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:18:41 AM 2017">
+  <Add>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="BAIC"
+        subLOVName="YF6_LOV_gr_ap_biac" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Benz"
+        subLOVName="YF6_LOV_gr_ap_benz" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="BMW"
+        subLOVName="YF6_LOV_gr_ap_bmw" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Brilliance Auto"
+        subLOVName="YF6_LOV_gr_ap_brilliance_auto" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Changan"
+        subLOVName="YF6_LOV_gr_ap_changan" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Chery"
+        subLOVName="YF6_LOV_gr_ap_chery" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Dongfeng"
+        subLOVName="YF6_LOV_gr_ap_dongfeng" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="FAW"
+        subLOVName="YF6_LOV_gr_ap_faw" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="FCA"
+        subLOVName="YF6_LOV_gr_ap_fca" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Ford"
+        subLOVName="YF6_LOV_gr_ap_ford" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Geely"
+        subLOVName="YF6_LOV_gr_ap_geely" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="General Motors"
+        subLOVName="YF6_LOV_gr_ap_gm" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Guangzhou Auto"
+        subLOVName="YF6_LOV_gr_ap_guangzhou_auto" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Hawtai"
+        subLOVName="YF6_LOV_gr_ap_hawtai" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Hyundai-Kia"
+        subLOVName="YF6_LOV_gr_ap_hyundai_kia" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Jianghuai"
+        subLOVName="YF6_LOV_gr_ap_jianghuai" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Mazda"
+        subLOVName="YF6_LOV_gr_ap_mazda" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Mercedes"
+        subLOVName="YF6_LOV_gr_ap_mercedes" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="PSA"
+        subLOVName="YF6_LOV_gr_ap_psa" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Renault/Nissan"
+        subLOVName="YF6_LOV_gr_ap_renault_nissan" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="SAIC"
+        subLOVName="YF6_LOV_gr_ap_saic" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="SAIC-General Motors-Wuling"
+        subLOVName="YF6_LOV_gr_ap_saic_gm_wuling" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Suzuki"
+        subLOVName="YF6_LOV_gr_ap_suzuki" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Volkswagen"
+        subLOVName="YF6_LOV_gr_ap_vw" conditionName="isTrue"/>
+    <TcLOVValueSubLOVAttach targetLOVName="YF6_LOV_global_strategic_gr_ap" targetValue="Zotye"
+        subLOVName="YF6_LOV_gr_ap_zotye" conditionName="isTrue"/>
+  </Add>
+  <Change>
+    <TcLOV name="YF6_LOV_global_strategic_gr_ap" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="BAIC" description="BAIC" conditionName="isTrue"/>
+      <TcLOVValue value="Benz" description="Benz" conditionName="isTrue"/>
+      <TcLOVValue value="BMW" description="BMW" conditionName="isTrue"/>
+      <TcLOVValue value="Brilliance Auto" description="Brilliance Auto" conditionName="isTrue"/>
+      <TcLOVValue value="Changan" description="Changan" conditionName="isTrue"/>
+      <TcLOVValue value="Chery" description="Chery" conditionName="isTrue"/>
+      <TcLOVValue value="Dongfeng" description="Dongfeng" conditionName="isTrue"/>
+      <TcLOVValue value="FAW" description="FAW" conditionName="isTrue"/>
+      <TcLOVValue value="FCA" description="FCA" conditionName="isTrue"/>
+      <TcLOVValue value="Ford" description="Ford" conditionName="isTrue"/>
+      <TcLOVValue value="Geely" description="Geely" conditionName="isTrue"/>
+      <TcLOVValue value="General Motors" description="General Motors" conditionName="isTrue"/>
+      <TcLOVValue value="Guangzhou Auto" description="Guangzhou Auto" conditionName="isTrue"/>
+      <TcLOVValue value="Hawtai" description="Hawtai" conditionName="isTrue"/>
+      <TcLOVValue value="Hyundai-Kia" description="Hyundai-Kia" conditionName="isTrue"/>
+      <TcLOVValue value="Jianghuai" description="Jianghuai" conditionName="isTrue"/>
+      <TcLOVValue value="Mazda" description="Mazda" conditionName="isTrue"/>
+      <TcLOVValue value="Mercedes" description="Mercedes" conditionName="isTrue"/>
+      <TcLOVValue value="PSA" description="PSA" conditionName="isTrue"/>
+      <TcLOVValue value="Renault/Nissan" description="Renault/Nissan" conditionName="isTrue"/>
+      <TcLOVValue value="SAIC" description="SAIC" conditionName="isTrue"/>
+      <TcLOVValue value="SAIC-General Motors-Wuling" description="SAIC-General Motors-Wuling"
+          conditionName="isTrue"/>
+      <TcLOVValue value="Suzuki" description="Suzuki" conditionName="isTrue"/>
+      <TcLOVValue value="Volkswagen" description="Volkswagen" conditionName="isTrue"/>
+      <TcLOVValue value="Zotye" description="Zotye" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

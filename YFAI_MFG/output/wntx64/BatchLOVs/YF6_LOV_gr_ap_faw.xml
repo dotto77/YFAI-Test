@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:20:39 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_faw" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="V210" description="Weizhi V2" conditionName="isTrue"/>
+      <TcLOVValue value="X121" description="Weizhi V5" conditionName="isTrue"/>
+      <TcLOVValue value="X123" description="TFC-H1" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

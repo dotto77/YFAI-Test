@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Tue Mar 07 04:16:27 PM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_pt_um" lovType="ListOfValuesString" usage="Exhaustive" description=""
+        isManagedExternally="true">
+      <TcLOVValue value="BX" description="BOX" conditionName="isTrue"/>
+      <TcLOVValue value="CA" description="CASE" conditionName="isTrue"/>
+      <TcLOVValue value="CC" description="CUBIC CENTIMETER" conditionName="isTrue"/>
+      <TcLOVValue value="CF" description="CUBIC FEET" conditionName="isTrue"/>
+      <TcLOVValue value="CI" description="CUBIC INCH" conditionName="isTrue"/>
+      <TcLOVValue value="CM" description="CENTIMETRE" conditionName="isTrue"/>
+      <TcLOVValue value="CT" description="CARTON" conditionName="isTrue"/>
+      <TcLOVValue value="DZ" description="DOZEN" conditionName="isTrue"/>
+      <TcLOVValue value="EA" description="EACHES" conditionName="isTrue"/>
+      <TcLOVValue value="FO" description="FLUID OUNCE" conditionName="isTrue"/>
+      <TcLOVValue value="FT" description="FEET" conditionName="isTrue"/>
+      <TcLOVValue value="G" description="GRAMME" conditionName="isTrue"/>
+      <TcLOVValue value="GA" description="GALLON" conditionName="isTrue"/>
+      <TcLOVValue value="IN" description="INCH" conditionName="isTrue"/>
+      <TcLOVValue value="KG" description="KILOGRAMME" conditionName="isTrue"/>
+      <TcLOVValue value="L" description="LITRE" conditionName="isTrue"/>
+      <TcLOVValue value="LB" description="POUND" conditionName="isTrue"/>
+      <TcLOVValue value="M" description="METRE" conditionName="isTrue"/>
+      <TcLOVValue value="ML" description="MILLILITRE" conditionName="isTrue"/>
+      <TcLOVValue value="MM" description="MILLIMETRE" conditionName="isTrue"/>
+      <TcLOVValue value="OZ" description="OUNCE" conditionName="isTrue"/>
+      <TcLOVValue value="PL" description="PALLET" conditionName="isTrue"/>
+      <TcLOVValue value="PT" description="PINT" conditionName="isTrue"/>
+      <TcLOVValue value="QT" description="QUART" conditionName="isTrue"/>
+      <TcLOVValue value="RL" description="ROLL" conditionName="isTrue"/>
+      <TcLOVValue value="SH" description="SHEET" conditionName="isTrue"/>
+      <TcLOVValue value="YD" description="YARDS" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

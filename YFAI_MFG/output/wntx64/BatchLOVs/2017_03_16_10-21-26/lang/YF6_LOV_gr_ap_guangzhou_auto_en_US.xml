@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:26 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A10-GAC" status="Approved">A10-GAC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A10-GAC"
+        status="Approved">GS5FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A28" status="Approved">A28</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A28"
+        status="Approved">GS4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A30-1" status="Approved">A30-1</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A30-1"
+        status="Approved">GS8</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A30-2" status="Approved">A30-2</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A30-2"
+        status="Approved">A30-2</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A32" status="Approved">A32</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A32"
+        status="Approved">A32</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A56" status="Approved">A56</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A56"
+        status="Approved">GS5 Super</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}A7M" status="Approved">A7M</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}A7M"
+        status="Approved">A7M</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AC3" status="Approved">AC3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AC3"
+        status="Approved">ThrumpcheGA5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AC4/A68" status="Approved">AC4/A68</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AC4/A68"
+        status="Approved">ThrumpcheGA6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AD-GAC" status="Approved">AD-GAC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AD-GAC"
+        status="Approved">GS5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AF" status="Approved">AF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AF"
+        status="Approved">ThrumpcheGA3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AF2/GA" status="Approved">AF2/GA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AF2/GA"
+        status="Approved">GA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AF3" status="Approved">AF3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AF3"
+        status="Approved">GA3S</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AG(EV)" status="Approved">AG(EV)</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AG(EV)"
+        status="Approved">AG(New Energy Car)</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_guangzhou_auto{::}AL" status="Approved">AL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_guangzhou_auto{::}AL"
+        status="Approved">ThrumpcheGA8</key>
+  </Add>
+</TcBusinessDataLocalization>

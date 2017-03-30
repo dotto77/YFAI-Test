@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Tue Mar 07 04:15:56 PM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_pt_group" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="ADHESIVE" description="ADHESIVE PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="AFTM" description="AFTER MARKET" conditionName="isTrue"/>
+      <TcLOVValue value="CABLING" description="CABLING PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="COMPO" description="COMPOSITE PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="CONT" description="CONTAINERS" conditionName="isTrue"/>
+      <TcLOVValue value="ELASTO" description="ELASTOMERS" conditionName="isTrue"/>
+      <TcLOVValue value="FABRICS" description="FABRIC PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="HEAT" description="HEAT TREATED PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="HYDRA" description="HYDRAULIC PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="INTC" description="INTERCOMPANY" conditionName="isTrue"/>
+      <TcLOVValue value="MACHINE" description="MACHINED PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="MOLDED" description="MOLDED PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="NFMETAL" description="NON FERROUS METALS" conditionName="isTrue"/>
+      <TcLOVValue value="PNEUM" description="PNEUMATIC PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="SAND" description="SAND BLASTED PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="SERV" description="SERVICE" conditionName="isTrue"/>
+      <TcLOVValue value="STEEL" description="STEEL PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="SUBC" description="SUB CONTRACT" conditionName="isTrue"/>
+      <TcLOVValue value="SUPPLIES" description="SUPPLIES" conditionName="isTrue"/>
+      <TcLOVValue value="THERMOP" description="THERMO PLASTIC PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="THERMOS" description="THERMO SET PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="TOOLING" description="TOOLING" conditionName="isTrue"/>
+      <TcLOVValue value="WASH" description="WASHED PRODUCTS" conditionName="isTrue"/>
+      <TcLOVValue value="WELDED" description="WELDED PRODUCTS" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:25:44 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_ford" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="C344" description="Focus C-Max" conditionName="isTrue"/>
+      <TcLOVValue value="C346" description="Ford Focus" conditionName="isTrue"/>
+      <TcLOVValue value="C346N" description="Focus" conditionName="isTrue"/>
+      <TcLOVValue value="C519" description="Ford Focus" conditionName="isTrue"/>
+      <TcLOVValue value="C520" description="Ford Kuga / Escape" conditionName="isTrue"/>
+      <TcLOVValue value="CD389" description="S-Max/Galaxy" conditionName="isTrue"/>
+      <TcLOVValue value="CD390" description="Galaxy" conditionName="isTrue"/>
+      <TcLOVValue value="CD391" description="Fusion" conditionName="isTrue"/>
+      <TcLOVValue value="CD539" description="Edge" conditionName="isTrue"/>
+      <TcLOVValue value="CD542" description="Mondeo" conditionName="isTrue"/>
+      <TcLOVValue value="CX482" description="Escape / Kuga" conditionName="isTrue"/>
+      <TcLOVValue value="D258 (2)" description="Taurus" conditionName="isTrue"/>
+      <TcLOVValue value="D385" description="MKS" conditionName="isTrue"/>
+      <TcLOVValue value="D471" description="Flex" conditionName="isTrue"/>
+      <TcLOVValue value="D472" description="MKT" conditionName="isTrue"/>
+      <TcLOVValue value="D544" description="Continental" conditionName="isTrue"/>
+      <TcLOVValue value="FXX" description="Ford other" conditionName="isTrue"/>
+      <TcLOVValue value="P552/3/4" description="F-150" conditionName="isTrue"/>
+      <TcLOVValue value="P558" description="F-250/350 Super Duty" conditionName="isTrue"/>
+      <TcLOVValue value="P703" description="Ford Ranger" conditionName="isTrue"/>
+      <TcLOVValue value="S550" description="Mustang" conditionName="isTrue"/>
+      <TcLOVValue value="U222/354" description="Expedition" conditionName="isTrue"/>
+      <TcLOVValue value="U502" description="Explorer" conditionName="isTrue"/>
+      <TcLOVValue value="U540" description="MKX" conditionName="isTrue"/>
+      <TcLOVValue value="U553" description="Expedition" conditionName="isTrue"/>
+      <TcLOVValue value="V363N" description="Transit" conditionName="isTrue"/>
+      <TcLOVValue value="V408" description="Ford Transit Connect" conditionName="isTrue"/>
+      <TcLOVValue value="VN127" description="Econoline" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

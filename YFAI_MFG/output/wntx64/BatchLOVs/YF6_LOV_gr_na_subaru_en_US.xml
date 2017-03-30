@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:24:39 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_subaru{::}BF4" status="Approved">BF4</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_subaru{::}BF4" status="Approved">Outback</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_subaru{::}QBX" status="Approved">QBX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_subaru{::}QBX" status="Approved">Subaru other</key>
+  </Add>
+</TcBusinessDataLocalization>

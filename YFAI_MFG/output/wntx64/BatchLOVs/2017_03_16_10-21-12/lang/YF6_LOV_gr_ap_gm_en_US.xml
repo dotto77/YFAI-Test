@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:12 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}258legac" status="Approved">258legac</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}258legac" status="Approved">GL8</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}31XG" status="Approved">31XG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}31XG" status="Approved">GMC Canyon</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}31XX" status="Approved">31XX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}31XX" status="Approved">Chevrolet Colorado</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}9BJB" status="Approved">9BJB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}9BJB" status="Approved">9BJB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}9BLB" status="Approved">9BLB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}9BLB" status="Approved">G2SB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}9BYB" status="Approved">9BYB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}9BYB" status="Approved">G2UB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}9BYC" status="Approved">9BYC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}9BYC" status="Approved">G2UC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}A10" status="Approved">A10</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}A10" status="Approved">Cadillac ATS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}A2LL" status="Approved">A2LL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}A2LL" status="Approved">NG Alpha</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}A2SL" status="Approved">A2SL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}A2SL" status="Approved">NG Alpha</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}C140" status="Approved">C140</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}C140" status="Approved">Captiva</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}C1TL-S" status="Approved">C1TL-S</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}C1TL-S" status="Approved">C1TL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}C1UB" status="Approved">C1UB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}C1UB" status="Approved">C1UB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}C1UC" status="Approved">C1UC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}C1UC" status="Approved">C1UC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}C1UL" status="Approved">C1UL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}C1UL" status="Approved">Cadillac XT5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}CN100IN" status="Approved">CN100IN</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}CN100IN" status="Approved">CN100</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D01" status="Approved">D01</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D01" status="Approved">Cruze HB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D06" status="Approved">D06</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D06" status="Approved">Excelle XT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D15" status="Approved">D15</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D15" status="Approved">Cruze Classic</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D16" status="Approved">D16</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D16" status="Approved">Excelle GT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2JBI" status="Approved">D2JBI</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2JBI" status="Approved">NG Ampera</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2JC" status="Approved">D2JC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2JC" status="Approved">D2JC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2LC" status="Approved">D2LC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2LC" status="Approved">New Cruze</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2LC-n" status="Approved">D2LC-n</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2LC-n" status="Approved">Chevrolet Cruze</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2SB" status="Approved">D2SB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2SB" status="Approved">Verano</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2SC" status="Approved">D2SC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2SC" status="Approved">New Cruze</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2UB-N" status="Approved">D2UB-N</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2UB-N" status="Approved">Envision export</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2UB-S" status="Approved">D2UB-S</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2UB-S" status="Approved">Envision</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2UC" status="Approved">D2UC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2UC" status="Approved">D2UC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D2YB" status="Approved">D2YB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D2YB" status="Approved">Envision</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D3SC" status="Approved">D3SC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D3SC" status="Approved">D3SC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E12" status="Approved">E12</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E12" status="Approved">Malibu</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E15" status="Approved">E15</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E15" status="Approved">New Regal</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E16" status="Approved">E16</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E16" status="Approved">New Lacrosse</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E16N.A" status="Approved">E16N.A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E16N.A" status="Approved">E16(N.A.)</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E17" status="Approved">E17</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E17" status="Approved">New Malibu</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E18" status="Approved">E18</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E18" status="Approved">Cadillac XTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E2LB-U" status="Approved">E2LB-U</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E2LB-U" status="Approved">Buick LaCrosse</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E2SB" status="Approved">E2SB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E2SB" status="Approved">E2 Regal</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E2SC-U" status="Approved">E2SC-U</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E2SC-U" status="Approved">Chevrolet Malibu</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G05_GM" status="Approved">G05_GM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G05_GM" status="Approved">New Aveo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G2KxZ" status="Approved">G2KxZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G2KxZ" status="Approved">BEV2</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G2SC" status="Approved">G2SC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G2SC" status="Approved">Chevrolet Sonic</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G60" status="Approved">G60</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G60" status="Approved">Encore</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G61" status="Approved">G61</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G61" status="Approved">Trax</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G65" status="Approved">G65</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G65" status="Approved">Trax</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}G66" status="Approved">G66</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}G66" status="Approved">New Encore</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}GMX350" status="Approved">GMX350</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}GMX350" status="Approved">GMX350</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}GMX353" status="Approved">GMX353</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}GMX353" status="Approved">Buick Lacrosse</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}JBSC" status="Approved">JBSC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}JBSC" status="Approved">JBSC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}JBUB" status="Approved">JBUB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}JBUB" status="Approved">B-SUV buick</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}JBUC" status="Approved">JBUC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}JBUC" status="Approved">B-SUV chevy</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}JCSB" status="Approved">JCSB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}JCSB" status="Approved">K211 FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}JCSC" status="Approved">JCSC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}JCSC" status="Approved">K216 FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K211" status="Approved">K211</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K211" status="Approved">K211</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K215" status="Approved">K215</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K215" status="Approved">K215/K211 MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K216" status="Approved">K216</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K216" status="Approved">Cavalier</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K216Ex" status="Approved">K216Ex</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K216Ex" status="Approved">Cavalier</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K218" status="Approved">K218</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K218" status="Approved">K218</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K221" status="Approved">K221</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K221" status="Approved">K221</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K226" status="Approved">K226</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K226" status="Approved">K226</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K256" status="Approved">K256</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K256" status="Approved">K256</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}K257" status="Approved">K257</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}K257" status="Approved">K257</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}O1SL" status="Approved">O1SL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}O1SL" status="Approved">Cadillac CT6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}OMEGA" status="Approved">OMEGA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}OMEGA" status="Approved">OMEGA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM201" status="Approved">SGM201</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM201" status="Approved">GL8-Luzun</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM258" status="Approved">SGM258</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM258" status="Approved">New GL8 MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM308" status="Approved">SGM308</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM308" status="Approved">New Sail</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM318" status="Approved">SGM318</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM318" status="Approved">Sail 3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM318EV" status="Approved">SGM318EV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM318EV" status="Approved">Sail 3 EV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM318Ex" status="Approved">SGM318Ex</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM318Ex" status="Approved">Sail 3 export</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM328" status="Approved">SGM328</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM328" status="Approved">Lova RV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM358" status="Approved">SGM358</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM358" status="Approved">NG UVAN</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM615MY" status="Approved">SGM615MY</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM615MY" status="Approved">Next Excelle</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}D11" status="Approved">D11</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}D11" status="Approved">D11</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E10" status="Approved">E10</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E10" status="Approved">E10</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}E11" status="Approved">E11</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}E11" status="Approved">E11</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}GAMMA" status="Approved">GAMMA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}GAMMA" status="Approved">GAMMA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}S-CAR" status="Approved">S-CAR</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}S-CAR" status="Approved">S-CAR</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM12" status="Approved">SGM12</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM12" status="Approved">SGM12</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM18" status="Approved">SGM18</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM18" status="Approved">SGM18</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM200" status="Approved">SGM200</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM200" status="Approved">SGM200</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM410" status="Approved">SGM410</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM410" status="Approved">SGM410</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM411" status="Approved">SGM411</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM411" status="Approved">SGM411</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM60" status="Approved">SGM60</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM60" status="Approved">SGM60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM618" status="Approved">SGM618</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM618" status="Approved">SGM618</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM710" status="Approved">SGM710</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM710" status="Approved">SGM710</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM811" status="Approved">SGM811</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM811" status="Approved">SGM811</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM813" status="Approved">SGM813</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM813" status="Approved">SGM813</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM818" status="Approved">SGM818</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM818" status="Approved">SGM818</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM980" status="Approved">SGM980</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM980" status="Approved">SGM980</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}SGM985" status="Approved">SGM985</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}SGM985" status="Approved">SGM985</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_gm{::}W-CAR" status="Approved">W-CAR</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_gm{::}W-CAR" status="Approved">W-CAR</key>
+  </Add>
+</TcBusinessDataLocalization>

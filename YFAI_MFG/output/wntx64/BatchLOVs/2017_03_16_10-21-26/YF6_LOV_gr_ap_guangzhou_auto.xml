@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:26 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_guangzhou_auto" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="A10-GAC" description="GS5FL" conditionName="isTrue"/>
+      <TcLOVValue value="A28" description="GS4" conditionName="isTrue"/>
+      <TcLOVValue value="A30-1" description="GS8" conditionName="isTrue"/>
+      <TcLOVValue value="A30-2" description="A30-2" conditionName="isTrue"/>
+      <TcLOVValue value="A32" description="A32" conditionName="isTrue"/>
+      <TcLOVValue value="A56" description="GS5 Super" conditionName="isTrue"/>
+      <TcLOVValue value="A7M" description="A7M" conditionName="isTrue"/>
+      <TcLOVValue value="AC3" description="ThrumpcheGA5" conditionName="isTrue"/>
+      <TcLOVValue value="AC4/A68" description="ThrumpcheGA6" conditionName="isTrue"/>
+      <TcLOVValue value="AD-GAC" description="GS5" conditionName="isTrue"/>
+      <TcLOVValue value="AF" description="ThrumpcheGA3" conditionName="isTrue"/>
+      <TcLOVValue value="AF2/GA" description="GA" conditionName="isTrue"/>
+      <TcLOVValue value="AF3" description="GA3S" conditionName="isTrue"/>
+      <TcLOVValue value="AG(EV)" description="AG(New Energy Car)" conditionName="isTrue"/>
+      <TcLOVValue value="AL" description="ThrumpcheGA8" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

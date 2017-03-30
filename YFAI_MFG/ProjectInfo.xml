@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+@<COPYRIGHT>@
+==================================================
+Copyright 2012.
+Siemens Product Lifecycle Management Software Inc.
+All Rights Reserved.
+==================================================
+@<COPYRIGHT>@
+--><ProjectInfo>
+    <NameValue key="ExternalBuild.CompileCommand.hpux" value="/opt/aCC/bin/aCC"/>
+    <NameValue key="SoaExternalBuild.SoaClientKitLocation" value=""/>
+    <NameValue key="ExternalBuild.CompilerFlags.linux" value="-c -fPIC -m64 -DSTEP -DAP203 -DAP214 -D_XOPEN_SOURCE=600 -DPOSIX -DNO_DOT_H -fmessage-length=0 -Wformat=2 -Wmissing-format-attribute"/>
+    <NameValue key="ExternalBuild.LinkerFlags.win32" value="-dll -debug -nologo -nodefaultlib -incremental:no -subsystem:console -dynamicbase -nxcompat"/>
+    <NameValue key="ExternalBuild.CompileCommand.win64" value="cl"/>
+    <NameValue key="SoaExternalBuild.GWTClientOn" value="false"/>
+    <NameValue key="SoaExternalBuild.RacClientOn" value="false"/>
+    <NameValue key="ExternalBuild.LinkCommand.macos" value="/usr/bin/g++"/>
+    <NameValue key="ExternalBuild.LinkerFlags.macos" value="-dynamiclib -Wl,-undefined,error -arch x86_64 -headerpad_max_install_names"/>
+    <NameValue key="Windows.Platform.OS" value="Win64-bit"/>
+    <NameValue key="SoaExternalBuild.NETMSBUILDLocation.V2" value="C:\WINDOWS\Microsoft.NET\Framewor\v2.0.50727"/>
+    <NameValue key="Codegen.SrcDir" value="src\server"/>
+    <NameValue key="ExternalBuild.LinkCommand.aix" value="/usr/vacpp/bin/xlC_r"/>
+    <NameValue key="ExternalBuild.CompilerFlags.solaris" value="-c -KPIC -mt -m64 -DSTEP -DAP203 -DAP214 -D_XOPEN_SOURCE=500 -DPOSIX -DUNX -DSUN -D_SOLARIS_SOURCE -DNO_DOT_H "/>
+    <NameValue key="ExternalBuild.CompileCommand.linux" value="/usr/bin/g++"/>
+    <NameValue key="ExternalBuild.LinkCommand.solaris" value="/opt/solarisstudio12.3/bin/CC"/>
+    <NameValue key="ExternalBuild.CompilerFlags.macos" value="-c -fPIC -fno-common -arch x86_64 -DSTEP -DAP203 -DAP214  -DUNX -DNO_DOT_H -fmessage-length=0 -Wformat=2 -Wmissing-format-attribute"/>
+    <NameValue key="ProjectBackup.Common.IncludeOutputFldr" value="false"/>
+    <NameValue key="ProjectBackup.Database.EnableBackup" value="true"/>
+    <NameValue key="SoaExternalBuild.WSDLClientOn" value="true"/>
+    <NameValue key="ExternalBuild.LinkerFlags.solaris" value="-G -m64"/>
+    <NameValue key="Codegen.Copyright" value="Copyright $CURRENT_YEAR.&#13;&#10;Siemens Product Lifecycle Management Software Inc.&#13;&#10;All Rights Reserved."/>
+    <NameValue key="SoaExternalBuild.JavaLooseClientOn" value="true"/>
+    <NameValue key="SoaExternalBuild.NETClientOn" value="true"/>
+    <NameValue key="ExternalBuild.LinkerFlags.aix" value="-qmkshrobj=0 -brtl -bnolibpath -bbigtoc -bh:5 -bnoentry -qpriority=1 -q64"/>
+    <NameValue key="ExternalBuild.LinkerFlags.win64" value="-dll -debug -nologo -nodefaultlib -incremental:no -subsystem:console -dynamicbase -nxcompat"/>
+    <NameValue key="ExternalBuild.TCInstallation" value=""/>
+    <NameValue key="ExternalBuild.CompileCommand.macos" value="/usr/bin/g++"/>
+    <NameValue key="SoaExternalBuild.CPPClientOn" value="true"/>
+    <NameValue key="ProjectBackup.Database.TEMDeploy" value="true"/>
+    <NameValue key="SoaExternalBuild.CPPManagedClientOn" value="true"/>
+    <NameValue key="SoaExternalBuild.BundleVersion" value="10000.1.0"/>
+    <NameValue key="ExternalBuild.LinkCommand.win32" value="link"/>
+    <NameValue key="Codegen.Deprecation.NumberOfReleases" value="1"/>
+    <NameValue key="Codegen.Deprecation.policy" value="true"/>
+    <NameValue key="SoaExternalBuild.JavaStrongClientOn" value="true"/>
+    <NameValue key="ExternalBuild.LinkerFlags.linux" value="-shared"/>
+    <NameValue key="ProjectBackup.LocalFileSystem.LastBkpTime" value="2017_03_20_17-28-16"/>
+    <NameValue key="SoaExternalBuild.NETWebtierFeatureUuid" value="eeacc3e2c96f487ea70cc911ca261aeb"/>
+    <NameValue key="ExternalBuild.LinkerFlags.hpux" value="-b -AA -mt +DD64 -Wl,+pi,4M,+pd,4M"/>
+    <NameValue key="ExternalBuild.CompilerFlags.aix" value="-c -qcpluscmt -qrtti -qmaxmem=-1 -qalign=natural -qalias=noansi -qchars=signed -qtbtable=full -q64 -DSTEP -DAP203 -DAP214 -qnamemangling=v8 -D_XOPEN_SOURCE=500 -DPOSIX -DUNX -DAIX -DNO_DOT_H "/>
+    <NameValue key="ExternalBuild.CompileHome" value=""/>
+    <NameValue key="ExternalBuild.CompilerFlags.win64" value="-MD -c -nologo -EHsc -FI %TC_ROOT%/include/msvcpragmas.h -DSTEP -DAP203 -DAP214 -DWIN32_LEAN_AND_MEAN -DWNT -D_CRT_SECURE_NO_DEPRECATE -D_CRT_NONSTDC_NO_DEPRECATE -D_SECURE_SCL=0 -DWNT -D_WIN32 -DWIN32 -D_WIN64 -D_INTEL=1 -DCRTAPI1=_cdecl -DCRTAPI2=cdecl -DNO_DOT_H -W3"/>
+    <NameValue key="ExternalBuild.CompileCommand.win32" value="cl"/>
+    <NameValue key="Codegen.Namespace" value="YFAI_MFG"/>
+    <NameValue key="ProjectBackup.LocalFileSystem.BackupReminder" value="10"/>
+    <NameValue key="ProjectBackup.LocalFileSystem.EnableBackup" value="true"/>
+    <NameValue key="ExternalBuild.CompileCommand.aix" value="/usr/vacpp/bin/xlC_r"/>
+    <NameValue key="ExternalBuild.CompileCommand.solaris" value="/opt/solarisstudio12.3/bin/CC"/>
+    <NameValue key="ExternalBuild.CompilerFlags.hpux" value="-c -z -mt +Z +DD64 +w64bit -DSTEP -DAP203 -DAP214 -AA -D_XOPEN_SOURCE -D_XOPEN_SOURCE_EXTENDED=1 -DPOSIX -DUNX -DHPI -DNO_DOT_H +We4230"/>
+    <NameValue key="ExternalBuild.LinkCommand.linux" value="/usr/bin/g++"/>
+    <NameValue key="ExternalBuild.LinkCommand.hpux" value="/opt/aCC/bin/aCC"/>
+    <NameValue key="ExternalBuild.LinkCommand.win64" value="link"/>
+    <NameValue key="ProjectBackup.Database.LiveDeploy" value="true"/>
+    <NameValue key="ExternalBuild.CompilerFlags.win32" value="-MD -Zm110 -c -nologo -EHsc -FI %TC_ROOT%/include/msvcpragmas.h -DSTEP -DAP203 -DAP214 -DWIN32_LEAN_AND_MEAN -DWNT -D_CRT_SECURE_NO_DEPRECATE -D_CRT_NONSTDC_NO_DEPRECATE -D_SECURE_SCL=0 -DWNT -D_WIN32 -DWIN32 -D_INTEL=1 -DCRTAPI1=_cdecl -DCRTAPI2=cdecl -DNO_DOT_H -W3"/>
+</ProjectInfo>

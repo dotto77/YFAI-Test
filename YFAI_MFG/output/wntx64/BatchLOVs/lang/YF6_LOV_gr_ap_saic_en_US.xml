@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:22:40 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AM31" status="Approved">AM31</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AM31" status="Approved">AM31</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP11MCE" status="Approved">AP11MCE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP11MCE"
+        status="Approved">AP11MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP12" status="Approved">AP12</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP12" status="Approved">MG5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP13" status="Approved">AP13</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP13" status="Approved">MG GT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP14" status="Approved">AP14</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP14" status="Approved">Roewe360</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP31" status="Approved">AP31</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP31" status="Approved">AP31</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP32" status="Approved">AP32</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP32" status="Approved">AP32</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP33" status="Approved">AP33</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP33" status="Approved">AP33</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS21" status="Approved">AS21</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS21" status="Approved">MG GS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS21MCE" status="Approved">AS21MCE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS21MCE"
+        status="Approved">AS21 MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS21RHD" status="Approved">AS21RHD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS21RHD"
+        status="Approved">MG GS RH</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS22" status="Approved">AS22</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS22" status="Approved">RX5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS24" status="Approved">AS24</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS24" status="Approved">AS24</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS31" status="Approved">AS31</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS31" status="Approved">AS31</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS31RHD" status="Approved">AS31RHD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS31RHD"
+        status="Approved">AS31 RH</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP12" status="Approved">BP12</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP12" status="Approved">New Roewe 750</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP31" status="Approved">BP31</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP31" status="Approved">Roewe950</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP32" status="Approved">BP32</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP32" status="Approved">BP32</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP32MCE" status="Approved">BP32MCE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP32MCE"
+        status="Approved">BP32 MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP34PHEV" status="Approved">BP34PHEV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP34PHEV"
+        status="Approved">Roewe950 Plug in</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP41" status="Approved">BP41</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP41" status="Approved">BP41</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}BP42" status="Approved">BP42</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}BP42" status="Approved">BP42</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}EP21" status="Approved">EP21</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}EP21" status="Approved">EP21</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ES11" status="Approved">ES11</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ES11" status="Approved">ES11</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}IP21MCE" status="Approved">IP21MCE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}IP21MCE"
+        status="Approved">New Roewe 550</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}IP2XMCE" status="Approved">IP2XMCE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}IP2XMCE"
+        status="Approved">MG6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}IP31" status="Approved">IP31</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}IP31" status="Approved">IP31</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}IP34" status="Approved">IP34</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}IP34" status="Approved">IP34</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}SK81" status="Approved">SK81</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}SK81" status="Approved">SK81</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}SV51" status="Approved">SV51</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}SV51" status="Approved">SV51</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}SV71" status="Approved">SV71</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}SV71" status="Approved">G10</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}SV71RH" status="Approved">SV71RH</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}SV71RH" status="Approved">G10 RH</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}SV91" status="Approved">SV91</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}SV91" status="Approved">D90</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}SV91RH" status="Approved">SV91RH</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}SV91RH" status="Approved">D90 RH</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZP11" status="Approved">ZP11</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZP11" status="Approved">MG3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZP11EU" status="Approved">ZP11EU</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZP11EU" status="Approved">MG3 EU</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZP11MCE3" status="Approved">ZP11MCE3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZP11MCE3"
+        status="Approved">ZP11MCE3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZP21" status="Approved">ZP21</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZP21" status="Approved">ZP21</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZS12" status="Approved">ZS12</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZS12" status="Approved">ZS12</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZS21" status="Approved">ZS21</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZS21" status="Approved">ZS21</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}ZS22" status="Approved">ZS22</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}ZS22" status="Approved">ZS22</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AP13 TT" status="Approved">AP13 TT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AP13 TT"
+        status="Approved">MG5 TT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}AS21 TT" status="Approved">AS21 TT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}AS21 TT"
+        status="Approved">AS21 TT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}S261ZP11" status="Approved">S261ZP11</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}S261ZP11"
+        status="Approved">MG3 TT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_saic{::}W262IP22" status="Approved">W262IP22</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_saic{::}W262IP22"
+        status="Approved">MG6 TT</key>
+  </Add>
+</TcBusinessDataLocalization>

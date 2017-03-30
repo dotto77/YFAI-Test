@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:59 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_jianghuai" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="A0" description="Yueyue" conditionName="isTrue"/>
+      <TcLOVValue value="A111" description="Heyue A13" conditionName="isTrue"/>
+      <TcLOVValue value="A21" description="Refine S2" conditionName="isTrue"/>
+      <TcLOVValue value="AII" description="Refine A33" conditionName="isTrue"/>
+      <TcLOVValue value="ASUV" description="ASUV" conditionName="isTrue"/>
+      <TcLOVValue value="B231" description="Heyue 2014" conditionName="isTrue"/>
+      <TcLOVValue value="B926" description="B18" conditionName="isTrue"/>
+      <TcLOVValue value="B-Cross" description="Refine S3" conditionName="isTrue"/>
+      <TcLOVValue value="BII" description="Heyue A30" conditionName="isTrue"/>
+      <TcLOVValue value="CII" description="CII" conditionName="isTrue"/>
+      <TcLOVValue value="IEV4" description="IEV4" conditionName="isTrue"/>
+      <TcLOVValue value="IEV5" description="IEV5" conditionName="isTrue"/>
+      <TcLOVValue value="IEV6S" description="IEV6S" conditionName="isTrue"/>
+      <TcLOVValue value="NewAII" description="New Heyue A20" conditionName="isTrue"/>
+      <TcLOVValue value="newB" description="Heyue A50" conditionName="isTrue"/>
+      <TcLOVValue value="NewBII" description="New Heyue A30" conditionName="isTrue"/>
+      <TcLOVValue value="New-S3" description="New Refine S3" conditionName="isTrue"/>
+      <TcLOVValue value="NewSII" description="New Refine S5" conditionName="isTrue"/>
+      <TcLOVValue value="RefineII" description="RefineII M5" conditionName="isTrue"/>
+      <TcLOVValue value="RefineM2" description="Refine M2" conditionName="isTrue"/>
+      <TcLOVValue value="RefineM4" description="Refine M4" conditionName="isTrue"/>
+      <TcLOVValue value="RefineM6" description="Refine M6" conditionName="isTrue"/>
+      <TcLOVValue value="RefineS7" description="Refine S7" conditionName="isTrue"/>
+      <TcLOVValue value="SII" description="Refine S5" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

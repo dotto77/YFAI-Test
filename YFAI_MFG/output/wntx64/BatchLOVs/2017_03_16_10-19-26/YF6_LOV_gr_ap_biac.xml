@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:19:26 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_biac" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="B80A" description="B80A" conditionName="isTrue"/>
+      <TcLOVValue value="B80B/C" description="B80C/D" conditionName="isTrue"/>
+      <TcLOVValue value="B80J" description="B80J" conditionName="isTrue"/>
+      <TcLOVValue value="C11CB" description="C11CB" conditionName="isTrue"/>
+      <TcLOVValue value="C30D" description="BAIC E series" conditionName="isTrue"/>
+      <TcLOVValue value="C30RHD" description="BAIC E series" conditionName="isTrue"/>
+      <TcLOVValue value="C31D" description="Senova X35" conditionName="isTrue"/>
+      <TcLOVValue value="C33D" description="Senova X25" conditionName="isTrue"/>
+      <TcLOVValue value="C33DRHD" description="C33D" conditionName="isTrue"/>
+      <TcLOVValue value="C40" description="C40D" conditionName="isTrue"/>
+      <TcLOVValue value="C50E" description="Senova D50" conditionName="isTrue"/>
+      <TcLOVValue value="C50EEV" description="Senova D50 EV" conditionName="isTrue"/>
+      <TcLOVValue value="C51E" description="Senova X55" conditionName="isTrue"/>
+      <TcLOVValue value="C60F" description="Senova CC/D60" conditionName="isTrue"/>
+      <TcLOVValue value="C61X" description="Senova X65" conditionName="isTrue"/>
+      <TcLOVValue value="C63F5+2" description="C63F 5+2" conditionName="isTrue"/>
+      <TcLOVValue value="C63X" description="C63X" conditionName="isTrue"/>
+      <TcLOVValue value="C70G" description="Senova D70" conditionName="isTrue"/>
+      <TcLOVValue value="C70GEV" description="Senova D70 EV" conditionName="isTrue"/>
+      <TcLOVValue value="C70GFL01" description="C70GFL01" conditionName="isTrue"/>
+      <TcLOVValue value="C73FMPV" description="C73F  MPV" conditionName="isTrue"/>
+      <TcLOVValue value="C80G" description="Senova D80" conditionName="isTrue"/>
+      <TcLOVValue value="C90L" description="D90" conditionName="isTrue"/>
+      <TcLOVValue value="H3" description="Heavy Truck H3" conditionName="isTrue"/>
+      <TcLOVValue value="H3-2017" description="H3-2017" conditionName="isTrue"/>
+      <TcLOVValue value="H3-2280" description="Heavy Truck H3" conditionName="isTrue"/>
+      <TcLOVValue value="H4" description="Heavy Truck H4" conditionName="isTrue"/>
+      <TcLOVValue value="H5" description="Heavy Truck H5" conditionName="isTrue"/>
+      <TcLOVValue value="K1" description="Van K1" conditionName="isTrue"/>
+      <TcLOVValue value="S50-WW" description="S50" conditionName="isTrue"/>
+      <TcLOVValue value="U201" description="Sauvana" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

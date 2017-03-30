@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:00 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}139" status="Approved">139</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}139" status="Approved">Fiat Panda</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}199" status="Approved">199</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}199" status="Approved">Fiat Punto</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}312" status="Approved">312</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}312" status="Approved">Fiat 500</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}319" status="Approved">319</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}319" status="Approved">Fiat Panda</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}330" status="Approved">330</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}330" status="Approved">Fiat L0</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}330(2)" status="Approved">330(2)</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}330(2)" status="Approved">Fiat 500L</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}332" status="Approved">332</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}332" status="Approved">Fiat 500</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}520" status="Approved">520</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}520" status="Approved">Jeep B-CUV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}521" status="Approved">521</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}521" status="Approved">Jeep 521 Brasil</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}846" status="Approved">846</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}846" status="Approved">Fiat Lancia Y</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}940" status="Approved">940</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}940" status="Approved">Alfa Giulietta</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}952" status="Approved">952</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}952" status="Approved">Alfa Giulia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}961" status="Approved">961</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}961" status="Approved">Alfa 961 Sedan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}CXX" status="Approved">CXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}CXX" status="Approved">Chrysler other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}DS/DJ" status="Approved">DS/DJ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}DS/DJ" status="Approved">Ram Pickup</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}EAX" status="Approved">EAX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}EAX" status="Approved">Alfa other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}EFX" status="Approved">EFX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}EFX" status="Approved">Ferrari other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}EIX" status="Approved">EIX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}EIX" status="Approved">Iveco other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}ELX" status="Approved">ELX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}ELX" status="Approved">Lancia other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}EMX" status="Approved">EMX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}EMX" status="Approved">Maserati other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}EXX" status="Approved">EXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}EXX" status="Approved">Fiat other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}FF" status="Approved">FF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}FF" status="Approved">500</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}JC49" status="Approved">JC49</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}JC49" status="Approved">Journey</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}JK72" status="Approved">JK72</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}JK72" status="Approved">Wrangler</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}JL72" status="Approved">JL72</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}JL72" status="Approved">Wrangler</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}KL" status="Approved">KL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}KL" status="Approved">Cherokee</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}LX" status="Approved">LX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}LX" status="Approved">300</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}M161" status="Approved">M161</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}M161" status="Approved">Maserati Levante</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}MK49" status="Approved">MK49</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}MK49" status="Approved">Compass</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}PF" status="Approved">PF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}PF" status="Approved">Dart</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}RT" status="Approved">RT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}RT" status="Approved">Caravan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}RU" status="Approved">RU</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}RU" status="Approved">Pacifica/Town&amp;Country</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}UF" status="Approved">UF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}UF" status="Approved">200</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}WD75" status="Approved">WD75</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}WD75" status="Approved">Durango</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}WK74" status="Approved">WK74</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}WK74" status="Approved">Grand Cherokee</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_fca{::}WL" status="Approved">WL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_fca{::}WL" status="Approved">Grand Cherokee</key>
+  </Add>
+</TcBusinessDataLocalization>

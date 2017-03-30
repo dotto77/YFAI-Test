@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Tue Mar 07 04:16:27 PM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}bx" status="Approved">bx</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}bx" status="Approved">bx - Box</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}ca" status="Approved">ca</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}ca" status="Approved">ca - Case</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}cc" status="Approved">cc</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}cc" status="Approved">cc - Cubic Centimeter</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}cf" status="Approved">cf</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}cf" status="Approved">cf - Cubic Feet</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}ci" status="Approved">ci</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}ci" status="Approved">ci - Cubic Inch</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}CM" status="Approved">CM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}CM" status="Approved">CENTIMETRE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}CT" status="Approved">CT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}CT" status="Approved">CARTON</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}DZ" status="Approved">DZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}DZ" status="Approved">DOZEN</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}EA" status="Approved">EA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}EA" status="Approved">EACHES</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}FO" status="Approved">FO</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}FO" status="Approved">FLUID OUNCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}FT" status="Approved">FT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}FT" status="Approved">FEET</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}G" status="Approved">G</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}G" status="Approved">GRAMME</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}GA" status="Approved">GA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}GA" status="Approved">GALLON</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}IN" status="Approved">IN</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}IN" status="Approved">INCH</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}KG" status="Approved">KG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}KG" status="Approved">KILOGRAMME</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}L" status="Approved">L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}L" status="Approved">LITRE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}LB" status="Approved">LB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}LB" status="Approved">POUND</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}M" status="Approved">M</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}M" status="Approved">METRE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}ML" status="Approved">ML</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}ML" status="Approved">MILLILITRE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}MM" status="Approved">MM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}MM" status="Approved">MILLIMETRE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}OZ" status="Approved">OZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}OZ" status="Approved">OUNCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}PL" status="Approved">PL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}PL" status="Approved">PALLET</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}PT" status="Approved">PT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}PT" status="Approved">PINT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}QT" status="Approved">QT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}QT" status="Approved">QUART</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}RL" status="Approved">RL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}RL" status="Approved">ROLL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}SH" status="Approved">SH</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}SH" status="Approved">SHEET</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_um{::}YD" status="Approved">YD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_um{::}YD" status="Approved">YARDS</key>
+  </Add>
+</TcBusinessDataLocalization>

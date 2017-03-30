@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:22:40 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_saic" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="AM31" description="AM31" conditionName="isTrue"/>
+      <TcLOVValue value="AP11MCE" description="AP11MCE" conditionName="isTrue"/>
+      <TcLOVValue value="AP12" description="MG5" conditionName="isTrue"/>
+      <TcLOVValue value="AP13" description="MG GT" conditionName="isTrue"/>
+      <TcLOVValue value="AP14" description="Roewe360" conditionName="isTrue"/>
+      <TcLOVValue value="AP31" description="AP31" conditionName="isTrue"/>
+      <TcLOVValue value="AP32" description="AP32" conditionName="isTrue"/>
+      <TcLOVValue value="AP33" description="AP33" conditionName="isTrue"/>
+      <TcLOVValue value="AS21" description="MG GS" conditionName="isTrue"/>
+      <TcLOVValue value="AS21MCE" description="AS21 MCE" conditionName="isTrue"/>
+      <TcLOVValue value="AS21RHD" description="MG GS RH" conditionName="isTrue"/>
+      <TcLOVValue value="AS22" description="RX5" conditionName="isTrue"/>
+      <TcLOVValue value="AS24" description="AS24" conditionName="isTrue"/>
+      <TcLOVValue value="AS31" description="AS31" conditionName="isTrue"/>
+      <TcLOVValue value="AS31RHD" description="AS31 RH" conditionName="isTrue"/>
+      <TcLOVValue value="BP12" description="New Roewe 750" conditionName="isTrue"/>
+      <TcLOVValue value="BP31" description="Roewe950" conditionName="isTrue"/>
+      <TcLOVValue value="BP32" description="BP32" conditionName="isTrue"/>
+      <TcLOVValue value="BP32MCE" description="BP32 MCE" conditionName="isTrue"/>
+      <TcLOVValue value="BP34PHEV" description="Roewe950 Plug in" conditionName="isTrue"/>
+      <TcLOVValue value="BP41" description="BP41" conditionName="isTrue"/>
+      <TcLOVValue value="BP42" description="BP42" conditionName="isTrue"/>
+      <TcLOVValue value="EP21" description="EP21" conditionName="isTrue"/>
+      <TcLOVValue value="ES11" description="ES11" conditionName="isTrue"/>
+      <TcLOVValue value="IP21MCE" description="New Roewe 550" conditionName="isTrue"/>
+      <TcLOVValue value="IP2XMCE" description="MG6" conditionName="isTrue"/>
+      <TcLOVValue value="IP31" description="IP31" conditionName="isTrue"/>
+      <TcLOVValue value="IP34" description="IP34" conditionName="isTrue"/>
+      <TcLOVValue value="SK81" description="SK81" conditionName="isTrue"/>
+      <TcLOVValue value="SV51" description="SV51" conditionName="isTrue"/>
+      <TcLOVValue value="SV71" description="G10" conditionName="isTrue"/>
+      <TcLOVValue value="SV71RH" description="G10 RH" conditionName="isTrue"/>
+      <TcLOVValue value="SV91" description="D90" conditionName="isTrue"/>
+      <TcLOVValue value="SV91RH" description="D90 RH" conditionName="isTrue"/>
+      <TcLOVValue value="ZP11" description="MG3" conditionName="isTrue"/>
+      <TcLOVValue value="ZP11EU" description="MG3 EU" conditionName="isTrue"/>
+      <TcLOVValue value="ZP11MCE3" description="ZP11MCE3" conditionName="isTrue"/>
+      <TcLOVValue value="ZP21" description="ZP21" conditionName="isTrue"/>
+      <TcLOVValue value="ZS12" description="ZS12" conditionName="isTrue"/>
+      <TcLOVValue value="ZS21" description="ZS21" conditionName="isTrue"/>
+      <TcLOVValue value="ZS22" description="ZS22" conditionName="isTrue"/>
+      <TcLOVValue value="AP13 TT" description="MG5 TT" conditionName="isTrue"/>
+      <TcLOVValue value="AS21 TT" description="AS21 TT" conditionName="isTrue"/>
+      <TcLOVValue value="S261ZP11" description="MG3 TT" conditionName="isTrue"/>
+      <TcLOVValue value="W262IP22" description="MG6 TT" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

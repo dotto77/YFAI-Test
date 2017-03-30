@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:25:34 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}AN" status="Approved">AN</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}AN"
+        status="Approved">Santa Fe Sport</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}CD(2)" status="Approved">CD(2)</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}CD(2)"
+        status="Approved">Kia Ceed</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}GD" status="Approved">GD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}GD"
+        status="Approved">Hyundai I30</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}JD" status="Approved">JD</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}JD"
+        status="Approved">Kia Ceed</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}JF" status="Approved">JF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}JF"
+        status="Approved">Freemont</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}KXX" status="Approved">KXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}KXX"
+        status="Approved">Hyundai/Kia other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_hyundai_kia{::}UM" status="Approved">UM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_hyundai_kia{::}UM"
+        status="Approved">Sorento</key>
+  </Add>
+</TcBusinessDataLocalization>

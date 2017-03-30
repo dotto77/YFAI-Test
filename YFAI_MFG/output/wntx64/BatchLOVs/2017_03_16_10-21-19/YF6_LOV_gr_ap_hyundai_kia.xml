@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:19 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_hyundai_kia" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="AB" description="AB" conditionName="isTrue"/>
+      <TcLOVValue value="AD" description="Lingdong" conditionName="isTrue"/>
+      <TcLOVValue value="BD" description="BD" conditionName="isTrue"/>
+      <TcLOVValue value="BDC" description="K3 FL" conditionName="isTrue"/>
+      <TcLOVValue value="BT01" description="Molnca" conditionName="isTrue"/>
+      <TcLOVValue value="CB" description="CB" conditionName="isTrue"/>
+      <TcLOVValue value="CFC" description="Mistra" conditionName="isTrue"/>
+      <TcLOVValue value="DMC" description="New Santa Fe" conditionName="isTrue"/>
+      <TcLOVValue value="DMCFL" description="New Santa Fe" conditionName="isTrue"/>
+      <TcLOVValue value="ID" description="ID" conditionName="isTrue"/>
+      <TcLOVValue value="JFC" description="New K5" conditionName="isTrue"/>
+      <TcLOVValue value="KC" description="KX3" conditionName="isTrue"/>
+      <TcLOVValue value="LFC" description="Sonata 9" conditionName="isTrue"/>
+      <TcLOVValue value="LMC" description="ix35" conditionName="isTrue"/>
+      <TcLOVValue value="MDC" description="Langdong" conditionName="isTrue"/>
+      <TcLOVValue value="ND" description="ND" conditionName="isTrue"/>
+      <TcLOVValue value="NU" description="NU" conditionName="isTrue"/>
+      <TcLOVValue value="QE" description="K1" conditionName="isTrue"/>
+      <TcLOVValue value="SFC" description="SFC" conditionName="isTrue"/>
+      <TcLOVValue value="SQ" description="SQ" conditionName="isTrue"/>
+      <TcLOVValue value="TL" description="New Tucson" conditionName="isTrue"/>
+      <TcLOVValue value="TM" description="New Santa Fe" conditionName="isTrue"/>
+      <TcLOVValue value="UC" description="UC" conditionName="isTrue"/>
+      <TcLOVValue value="XD" description="Elantra XD" conditionName="isTrue"/>
+      <TcLOVValue value="XF" description="XF" conditionName="isTrue"/>
+      <TcLOVValue value="XL" description="XL" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

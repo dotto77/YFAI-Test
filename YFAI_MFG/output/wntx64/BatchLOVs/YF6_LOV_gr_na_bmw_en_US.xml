@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:25:49 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}E46" status="Approved">E46</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}E46" status="Approved">BMW 3 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}E84" status="Approved">E84</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}E84" status="Approved">BMW X1</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}E90" status="Approved">E90</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}E90" status="Approved">BMW 3 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F07" status="Approved">F07</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F07" status="Approved">BMW Luxury Sport Cru</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F10" status="Approved">F10</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F10" status="Approved">BMW 5 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F15" status="Approved">F15</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F15" status="Approved">BMW X5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F16" status="Approved">F16</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F16" status="Approved">BMW X6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F25" status="Approved">F25</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F25" status="Approved">BMW X3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F26" status="Approved">F26</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F26" status="Approved">BMW X4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F30" status="Approved">F30</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F30" status="Approved">BMW 3 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F39" status="Approved">F39</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F39" status="Approved">BMW X-Cite</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F45" status="Approved">F45</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F45" status="Approved">BMW 2 series / Tourer</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}F48" status="Approved">F48</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}F48" status="Approved">BMW X1</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}G01" status="Approved">G01</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}G01" status="Approved">BMW X3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}G02" status="Approved">G02</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}G02" status="Approved">BMW X4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}G05" status="Approved">G05</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}G05" status="Approved">BMW X5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}G20" status="Approved">G20</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}G20" status="Approved">BMW 3 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}G26" status="Approved">G26</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}G26" status="Approved">BMW 4 series</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}G30" status="Approved">G30</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}G30" status="Approved">BMW 3/5up</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}i01(MCV)" status="Approved">i01(MCV)</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}i01(MCV)"
+        status="Approved">BMW I03</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_bmw{::}WXX" status="Approved">WXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_bmw{::}WXX" status="Approved">BMW other</key>
+  </Add>
+</TcBusinessDataLocalization>

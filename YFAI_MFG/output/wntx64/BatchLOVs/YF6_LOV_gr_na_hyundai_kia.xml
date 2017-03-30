@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:25:34 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_hyundai_kia" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="AN" description="Santa Fe Sport" conditionName="isTrue"/>
+      <TcLOVValue value="CD(2)" description="Kia Ceed" conditionName="isTrue"/>
+      <TcLOVValue value="GD" description="Hyundai I30" conditionName="isTrue"/>
+      <TcLOVValue value="JD" description="Kia Ceed" conditionName="isTrue"/>
+      <TcLOVValue value="JF" description="Freemont" conditionName="isTrue"/>
+      <TcLOVValue value="KXX" description="Hyundai/Kia other" conditionName="isTrue"/>
+      <TcLOVValue value="UM" description="Sorento" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

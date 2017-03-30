@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:18:41 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}BAIC" status="Approved">BAIC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}BAIC"
+        status="Approved">BAIC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Benz" status="Approved">Benz</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Benz"
+        status="Approved">Benz</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}BMW" status="Approved">BMW</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}BMW"
+        status="Approved">BMW</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Brilliance Auto"
+        status="Approved">Brilliance Auto</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Brilliance Auto"
+        status="Approved">Brilliance Auto</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Changan"
+        status="Approved">Changan</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Changan"
+        status="Approved">Changan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Chery" status="Approved">Chery</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Chery"
+        status="Approved">Chery</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Dongfeng"
+        status="Approved">Dongfeng</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Dongfeng"
+        status="Approved">Dongfeng</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}FAW" status="Approved">FAW</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}FAW"
+        status="Approved">FAW</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}FCA" status="Approved">FCA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}FCA"
+        status="Approved">FCA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Ford" status="Approved">Ford</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Ford"
+        status="Approved">Ford</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Geely" status="Approved">Geely</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Geely"
+        status="Approved">Geely</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}General Motors"
+        status="Approved">General Motors</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}General Motors"
+        status="Approved">General Motors</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Guangzhou Auto"
+        status="Approved">Guangzhou Auto</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Guangzhou Auto"
+        status="Approved">Guangzhou Auto</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Hawtai"
+        status="Approved">Hawtai</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Hawtai"
+        status="Approved">Hawtai</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Hyundai-Kia"
+        status="Approved">Hyundai-Kia</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Hyundai-Kia"
+        status="Approved">Hyundai-Kia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Jianghuai"
+        status="Approved">Jianghuai</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Jianghuai"
+        status="Approved">Jianghuai</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Mazda" status="Approved">Mazda</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Mazda"
+        status="Approved">Mazda</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Mercedes"
+        status="Approved">Mercedes</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Mercedes"
+        status="Approved">Mercedes</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}PSA" status="Approved">PSA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}PSA"
+        status="Approved">PSA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Renault/Nissan"
+        status="Approved">Renault/Nissan</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Renault/Nissan"
+        status="Approved">Renault/Nissan</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}SAIC" status="Approved">SAIC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}SAIC"
+        status="Approved">SAIC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}SAIC-General Motors-Wuling"
+        status="Approved">SAIC-General Motors-Wuling</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}SAIC-General Motors-Wuling"
+        status="Approved">SAIC-General Motors-Wuling</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Suzuki"
+        status="Approved">Suzuki</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Suzuki"
+        status="Approved">Suzuki</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Volkswagen"
+        status="Approved">Volkswagen</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Volkswagen"
+        status="Approved">Volkswagen</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_global_strategic_gr_ap{::}Zotye" status="Approved">Zotye</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_global_strategic_gr_ap{::}Zotye"
+        status="Approved">Zotye</key>
+  </Add>
+</TcBusinessDataLocalization>

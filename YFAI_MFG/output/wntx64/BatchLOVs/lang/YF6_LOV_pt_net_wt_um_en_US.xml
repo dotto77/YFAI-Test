@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Tue Mar 07 04:17:12 PM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}blank" status="Approved">blank</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}blank" status="Approved">blank</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}mg" status="Approved">mg</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}mg" status="Approved">mg - Milligram</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}g" status="Approved">g</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}g" status="Approved">g - Gram</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}kg" status="Approved">kg</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}kg" status="Approved">kg - Kilogram</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}oz" status="Approved">oz</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}oz" status="Approved">oz - Ounce</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}lb" status="Approved">lb</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}lb" status="Approved">lb - US Pound</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}to" status="Approved">to</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}to" status="Approved">to - Metric Ton</key>
+  </Add>
+</TcBusinessDataLocalization>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:23:08 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_vw" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="NewModel" description="B-SUV MPV" conditionName="isTrue"/>
+      <TcLOVValue value="SK250" description="Fabia" conditionName="isTrue"/>
+      <TcLOVValue value="SK251" description="Rapid Spaceback" conditionName="isTrue"/>
+      <TcLOVValue value="SK251PA" description="Rapid Spaceback PA" conditionName="isTrue"/>
+      <TcLOVValue value="SK260" description="Fabia NF" conditionName="isTrue"/>
+      <TcLOVValue value="SK316" description="Yeti" conditionName="isTrue"/>
+      <TcLOVValue value="SK316/3" description="CUV" conditionName="isTrue"/>
+      <TcLOVValue value="SK326" description="Yeti NF" conditionName="isTrue"/>
+      <TcLOVValue value="SK326/1" description="A+ SUV" conditionName="isTrue"/>
+      <TcLOVValue value="SK326/1D" description="Skoda A+ SUV Derivate" conditionName="isTrue"/>
+      <TcLOVValue value="SK351" description="Octavia" conditionName="isTrue"/>
+      <TcLOVValue value="SK351NF" description="Rapid NF" conditionName="isTrue"/>
+      <TcLOVValue value="SK351PA" description="Rapid PA" conditionName="isTrue"/>
+      <TcLOVValue value="SK371Dre" description="Octavia NF Drehscheibe" conditionName="isTrue"/>
+      <TcLOVValue value="SK371FL" description="Octavia NF FL" conditionName="isTrue"/>
+      <TcLOVValue value="SK371NF" description="Octavia NF NF" conditionName="isTrue"/>
+      <TcLOVValue value="SK461FL" description="Superb FL" conditionName="isTrue"/>
+      <TcLOVValue value="SK481" description="Superb NF" conditionName="isTrue"/>
+      <TcLOVValue value="STN3000" description="STN Vista" conditionName="isTrue"/>
+      <TcLOVValue value="VW216" description="T-Cross" conditionName="isTrue"/>
+      <TcLOVValue value="VW250" description="New Polo" conditionName="isTrue"/>
+      <TcLOVValue value="VW250Cro" description="Cross Polo" conditionName="isTrue"/>
+      <TcLOVValue value="VW250GP" description="POLO GP" conditionName="isTrue"/>
+      <TcLOVValue value="VW250GPG" description="POLO GP GTI" conditionName="isTrue"/>
+      <TcLOVValue value="VW250GTI" description="POLO GTI" conditionName="isTrue"/>
+      <TcLOVValue value="VW260" description="POLO NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW310FL" description="Gran Lavida FL" conditionName="isTrue"/>
+      <TcLOVValue value="VW311" description="Lavida" conditionName="isTrue"/>
+      <TcLOVValue value="VW313" description="Gran Lavida" conditionName="isTrue"/>
+      <TcLOVValue value="VW316" description="Tiguan FL" conditionName="isTrue"/>
+      <TcLOVValue value="VW316/5" description="Tharu" conditionName="isTrue"/>
+      <TcLOVValue value="VW321" description="New Lavida" conditionName="isTrue"/>
+      <TcLOVValue value="VW321FL" description="New Lavida" conditionName="isTrue"/>
+      <TcLOVValue value="VW321SL" description="New Lavida Sportline" conditionName="isTrue"/>
+      <TcLOVValue value="VW326" description="Tiguan NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW326FL" description="Tiguan NF FL" conditionName="isTrue"/>
+      <TcLOVValue value="VW330" description="Gran Lavida NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW331" description="Lavida NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW350Der" description="Gran Santana" conditionName="isTrue"/>
+      <TcLOVValue value="VW350PA" description="Gran Santana PA" conditionName="isTrue"/>
+      <TcLOVValue value="VW351" description="STN NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW351NFN" description="STN NF NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW351PA" description="STN NF PA" conditionName="isTrue"/>
+      <TcLOVValue value="VW358" description="Touran" conditionName="isTrue"/>
+      <TcLOVValue value="VW373/8" description="Lamando" conditionName="isTrue"/>
+      <TcLOVValue value="VW373/8F" description="Lamando FL" conditionName="isTrue"/>
+      <TcLOVValue value="VW378/1" description="Touran NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW411GP" description="New Passat GP" conditionName="isTrue"/>
+      <TcLOVValue value="VW416Der" description="B-SUV Derivate" conditionName="isTrue"/>
+      <TcLOVValue value="VW421" description="New Passat NF" conditionName="isTrue"/>
+      <TcLOVValue value="VW511" description="C model" conditionName="isTrue"/>
+      <TcLOVValue value="VW511FL" description="C model FL" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TcBusinessDataIncludes currentTemplateVersion="10.1_9" displayName="YFAI_MFG" enableOpsDataDeploy="true" guid="02AA0040BC0AB13E309C1E9EF259CB01" isDescriptionMandatory="false" name="yfaimfg" optional="true" prefixes="YF6_" teamcenterTemplate="false">
+    <include file="foundation_template.xml"/>
+</TcBusinessDataIncludes>

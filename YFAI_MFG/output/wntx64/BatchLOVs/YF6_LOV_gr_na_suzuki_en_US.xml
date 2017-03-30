@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:24:27 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_suzuki{::}YFA(2)" status="Approved">YFA(2)</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_suzuki{::}YFA(2)"
+        status="Approved">Vitara</key>
+  </Add>
+</TcBusinessDataLocalization>

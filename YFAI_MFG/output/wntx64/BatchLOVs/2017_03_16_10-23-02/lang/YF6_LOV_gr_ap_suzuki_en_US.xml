@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:23:02 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YAE" status="Approved">YAE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YAE" status="Approved">S Cross</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YC5/YD3" status="Approved">YC5/YD3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YC5/YD3"
+        status="Approved">New Alto</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YFE" status="Approved">YFE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YFE" status="Approved">Vitara</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YJB" status="Approved">YJB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YJB" status="Approved">YJB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YRB" status="Approved">YRB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YRB" status="Approved">YRB</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YS6" status="Approved">YS6</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YS6" status="Approved">Liana</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YSC" status="Approved">YSC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YSC" status="Approved">YSC</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YY5" status="Approved">YY5</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YY5" status="Approved">SX4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_suzuki{::}YY5FL" status="Approved">YY5FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_suzuki{::}YY5FL"
+        status="Approved">SX4 NB</key>
+  </Add>
+</TcBusinessDataLocalization>

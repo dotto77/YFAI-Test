@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:23:08 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}NewModel" status="Approved">NewModel</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}NewModel" status="Approved">B-SUV MPV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK250" status="Approved">SK250</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK250" status="Approved">Fabia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK251" status="Approved">SK251</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK251" status="Approved">Rapid Spaceback</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK251PA" status="Approved">SK251PA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK251PA" status="Approved">Rapid Spaceback PA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK260" status="Approved">SK260</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK260" status="Approved">Fabia NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK316" status="Approved">SK316</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK316" status="Approved">Yeti</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK316/3" status="Approved">SK316/3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK316/3" status="Approved">CUV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK326" status="Approved">SK326</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK326" status="Approved">Yeti NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK326/1" status="Approved">SK326/1</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK326/1" status="Approved">A+ SUV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK326/1D" status="Approved">SK326/1D</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK326/1D" status="Approved">Skoda A+ SUV Derivate</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK351" status="Approved">SK351</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK351" status="Approved">Octavia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK351NF" status="Approved">SK351NF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK351NF" status="Approved">Rapid NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK351PA" status="Approved">SK351PA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK351PA" status="Approved">Rapid PA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK371Dre" status="Approved">SK371Dre</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK371Dre" status="Approved">Octavia NF Drehscheibe</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK371FL" status="Approved">SK371FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK371FL" status="Approved">Octavia NF FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK371NF" status="Approved">SK371NF</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK371NF" status="Approved">Octavia NF NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK461FL" status="Approved">SK461FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK461FL" status="Approved">Superb FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}SK481" status="Approved">SK481</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}SK481" status="Approved">Superb NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}STN3000" status="Approved">STN3000</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}STN3000" status="Approved">STN Vista</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW216" status="Approved">VW216</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW216" status="Approved">T-Cross</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW250" status="Approved">VW250</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW250" status="Approved">New Polo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW250Cro" status="Approved">VW250Cro</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW250Cro" status="Approved">Cross Polo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW250GP" status="Approved">VW250GP</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW250GP" status="Approved">POLO GP</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW250GPG" status="Approved">VW250GPG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW250GPG" status="Approved">POLO GP GTI</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW250GTI" status="Approved">VW250GTI</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW250GTI" status="Approved">POLO GTI</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW260" status="Approved">VW260</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW260" status="Approved">POLO NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW310FL" status="Approved">VW310FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW310FL" status="Approved">Gran Lavida FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW311" status="Approved">VW311</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW311" status="Approved">Lavida</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW313" status="Approved">VW313</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW313" status="Approved">Gran Lavida</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW316" status="Approved">VW316</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW316" status="Approved">Tiguan FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW316/5" status="Approved">VW316/5</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW316/5" status="Approved">Tharu</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW321" status="Approved">VW321</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW321" status="Approved">New Lavida</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW321FL" status="Approved">VW321FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW321FL" status="Approved">New Lavida</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW321SL" status="Approved">VW321SL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW321SL" status="Approved">New Lavida Sportline</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW326" status="Approved">VW326</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW326" status="Approved">Tiguan NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW326FL" status="Approved">VW326FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW326FL" status="Approved">Tiguan NF FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW330" status="Approved">VW330</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW330" status="Approved">Gran Lavida NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW331" status="Approved">VW331</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW331" status="Approved">Lavida NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW350Der" status="Approved">VW350Der</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW350Der" status="Approved">Gran Santana</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW350PA" status="Approved">VW350PA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW350PA" status="Approved">Gran Santana PA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW351" status="Approved">VW351</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW351" status="Approved">STN NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW351NFN" status="Approved">VW351NFN</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW351NFN" status="Approved">STN NF NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW351PA" status="Approved">VW351PA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW351PA" status="Approved">STN NF PA</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW358" status="Approved">VW358</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW358" status="Approved">Touran</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW373/8" status="Approved">VW373/8</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW373/8" status="Approved">Lamando</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW373/8F" status="Approved">VW373/8F</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW373/8F" status="Approved">Lamando FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW378/1" status="Approved">VW378/1</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW378/1" status="Approved">Touran NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW411GP" status="Approved">VW411GP</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW411GP" status="Approved">New Passat GP</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW416Der" status="Approved">VW416Der</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW416Der" status="Approved">B-SUV Derivate</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW421" status="Approved">VW421</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW421" status="Approved">New Passat NF</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW511" status="Approved">VW511</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW511" status="Approved">C model</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_vw{::}VW511FL" status="Approved">VW511FL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_vw{::}VW511FL" status="Approved">C model FL</key>
+  </Add>
+</TcBusinessDataLocalization>

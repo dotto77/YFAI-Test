@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Tue Mar 07 04:17:12 PM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}BLANK" status="Approved">BLANK</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}BLANK"
+        status="Approved">BLANK</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}G" status="Approved">G</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}G" status="Approved">GRAMMES</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}KG" status="Approved">KG</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}KG" status="Approved">KILOGRAMMES</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}LB" status="Approved">LB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}LB" status="Approved">POUNDS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}OZ" status="Approved">OZ</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}OZ" status="Approved">OUNCES</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_net_wt_um{::}T" status="Approved">T</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_net_wt_um{::}T" status="Approved">TONNES</key>
+  </Add>
+</TcBusinessDataLocalization>

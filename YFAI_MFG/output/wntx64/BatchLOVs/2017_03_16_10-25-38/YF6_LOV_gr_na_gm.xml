@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:25:38 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_gm" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="9CJO" description="Opel Astra" conditionName="isTrue"/>
+      <TcLOVValue value="A1LL" description="CTS" conditionName="isTrue"/>
+      <TcLOVValue value="A1SL/BL" description="ATS" conditionName="isTrue"/>
+      <TcLOVValue value="A3300" description="Opel Astra" conditionName="isTrue"/>
+      <TcLOVValue value="A3400" description="Opel Astra" conditionName="isTrue"/>
+      <TcLOVValue value="D1AB" description="Cascada NA" conditionName="isTrue"/>
+      <TcLOVValue value="D1AO" description="Opel Cascada EU" conditionName="isTrue"/>
+      <TcLOVValue value="D1BLI" description="ELR" conditionName="isTrue"/>
+      <TcLOVValue value="D1NO" description="Opel Zafira" conditionName="isTrue"/>
+      <TcLOVValue value="D1SC" description="Cruze" conditionName="isTrue"/>
+      <TcLOVValue value="D2JB" description="Cobalt/Verano" conditionName="isTrue"/>
+      <TcLOVValue value="D2JO" description="Opel Astra" conditionName="isTrue"/>
+      <TcLOVValue value="D2LC/JCK" description="Cruze" conditionName="isTrue"/>
+      <TcLOVValue value="E2JO" description="Opel Insignia" conditionName="isTrue"/>
+      <TcLOVValue value="E2LB" description="LaCrosse" conditionName="isTrue"/>
+      <TcLOVValue value="E2SC" description="Malibu" conditionName="isTrue"/>
+      <TcLOVValue value="E2UL" description="XT4" conditionName="isTrue"/>
+      <TcLOVValue value="G1SC" description="Sonic" conditionName="isTrue"/>
+      <TcLOVValue value="G1UC" description="Trax" conditionName="isTrue"/>
+      <TcLOVValue value="G2KOZ" description="BEV (Opel)" conditionName="isTrue"/>
+      <TcLOVValue value="G511/521" description="Camaro" conditionName="isTrue"/>
+      <TcLOVValue value="GMT-166" description="SRX" conditionName="isTrue"/>
+      <TcLOVValue value="GMT-172" description="Equinox" conditionName="isTrue"/>
+      <TcLOVValue value="GMT-610" description="Express" conditionName="isTrue"/>
+      <TcLOVValue value="GMT-968" description="Acadia Limited" conditionName="isTrue"/>
+      <TcLOVValue value="GMX-211" description="Impala Limited" conditionName="isTrue"/>
+      <TcLOVValue value="GMX-350" description="Regal" conditionName="isTrue"/>
+      <TcLOVValue value="GMX-351" description="Malibu" conditionName="isTrue"/>
+      <TcLOVValue value="GMX-352" description="Impala" conditionName="isTrue"/>
+      <TcLOVValue value="GMX-353" description="LaCrosse" conditionName="isTrue"/>
+      <TcLOVValue value="GXX" description="GM/Opel other" conditionName="isTrue"/>
+      <TcLOVValue value="K2UL" description="Escalade" conditionName="isTrue"/>
+      <TcLOVValue value="P1LL" description="XTS" conditionName="isTrue"/>
+      <TcLOVValue value="T1(REC)C" description="Silverado" conditionName="isTrue"/>
+      <TcLOVValue value="T3000" description="Opel Astra" conditionName="isTrue"/>
+      <TcLOVValue value="T3370" description="Opel Zafira" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

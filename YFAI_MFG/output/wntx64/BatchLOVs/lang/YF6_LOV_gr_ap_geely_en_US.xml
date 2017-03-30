@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:21:07 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}CX11" status="Approved">CX11</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}CX11" status="Approved">CX11</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}FE-3 EV" status="Approved">FE-3 EV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}FE-3 EV"
+        status="Approved">New Emgrand EV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}FE-3/AB" status="Approved">FE-3/AB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}FE-3/AB"
+        status="Approved">New Emgrand</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}FE-5" status="Approved">FE-5</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}FE-5" status="Approved">EC7 2nd</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}FE-5B" status="Approved">FE-5B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}FE-5B" status="Approved">EC72nd FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}FE-7" status="Approved">FE-7</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}FE-7" status="Approved">EC7 GS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}FE-7B" status="Approved">FE-7B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}FE-7B" status="Approved">EMGRAND GS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}K316" status="Approved">K316</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}K316" status="Approved">Volvo XC40</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}K413" status="Approved">K413</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}K413" status="Approved">Volvo XC60</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}K431" status="Approved">K431</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}K431" status="Approved">Volvo K431</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}L421" status="Approved">L421</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}L421" status="Approved">Volvo S60L</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}LG-4" status="Approved">LG-4</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}LG-4" status="Approved">SC6/SC6-RV</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}LG-4AB" status="Approved">LG-4AB</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}LG-4AB"
+        status="Approved">Kingkong FL</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}NL-3" status="Approved">NL-3</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}NL-3" status="Approved">NL-3</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_geely{::}NL-3B" status="Approved">NL-3B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_geely{::}NL-3B" status="Approved">BOYUE</key>
+  </Add>
+</TcBusinessDataLocalization>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:21:33 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_saic_gm_wuling" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="CN100" description="CN100" conditionName="isTrue"/>
+      <TcLOVValue value="CN100NG" description="New CN100 series" conditionName="isTrue"/>
+      <TcLOVValue value="CN100V" description="CN100V" conditionName="isTrue"/>
+      <TcLOVValue value="CN101" description="CN100" conditionName="isTrue"/>
+      <TcLOVValue value="CN112" description="CN100 MCE" conditionName="isTrue"/>
+      <TcLOVValue value="CN113" description="CN113" conditionName="isTrue"/>
+      <TcLOVValue value="CN113R" description="CN113R" conditionName="isTrue"/>
+      <TcLOVValue value="CN120S" description="CN120S" conditionName="isTrue"/>
+      <TcLOVValue value="CN150" description="CN150" conditionName="isTrue"/>
+      <TcLOVValue value="CN180NG" description="new CN180" conditionName="isTrue"/>
+      <TcLOVValue value="CN180S" description="CN180S" conditionName="isTrue"/>
+      <TcLOVValue value="CN200" description="Baojun 730" conditionName="isTrue"/>
+      <TcLOVValue value="CN200NG" description="New Baojun 560" conditionName="isTrue"/>
+      <TcLOVValue value="CN200S" description="Baojun 560" conditionName="isTrue"/>
+      <TcLOVValue value="CN201" description="CN200 MCE" conditionName="isTrue"/>
+      <TcLOVValue value="CN210" description="CN210" conditionName="isTrue"/>
+      <TcLOVValue value="CN210NG" description="New CN210 series" conditionName="isTrue"/>
+      <TcLOVValue value="CN210R" description="CN210R" conditionName="isTrue"/>
+      <TcLOVValue value="CN220" description="CN220" conditionName="isTrue"/>
+      <TcLOVValue value="CN300" description="CN300" conditionName="isTrue"/>
+      <TcLOVValue value="GP30" description="Baojun 330" conditionName="isTrue"/>
+      <TcLOVValue value="GP50HB" description="Baojun 610" conditionName="isTrue"/>
+      <TcLOVValue value="GP52" description="Baojun 630" conditionName="isTrue"/>
+      <TcLOVValue value="GP53" description="Baojun 630" conditionName="isTrue"/>
+      <TcLOVValue value="M100" description="Spark" conditionName="isTrue"/>
+      <TcLOVValue value="Sparkspo" description="Spark Sporty" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

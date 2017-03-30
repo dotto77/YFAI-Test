@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:25:12 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_mercedes" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="G463" description="MB G Wagen" conditionName="isTrue"/>
+      <TcLOVValue value="G463 M" description="MB G Wagen" conditionName="isTrue"/>
+      <TcLOVValue value="MXX" description="Mercedes other" conditionName="isTrue"/>
+      <TcLOVValue value="R129" description="MB SL" conditionName="isTrue"/>
+      <TcLOVValue value="R170" description="MB SLK" conditionName="isTrue"/>
+      <TcLOVValue value="R172" description="MB SLK" conditionName="isTrue"/>
+      <TcLOVValue value="V/W251" description="R-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W164" description="MB M-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W166" description="GLE (M-Class)" conditionName="isTrue"/>
+      <TcLOVValue value="W169" description="MB A-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W177" description="MB A-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W204" description="MB C-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W205" description="MB C-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W206" description="MB C-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W212" description="MB E-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W213" description="MB E-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W222" description="MB S-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W223" description="MB S-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W246" description="MB B-Class" conditionName="isTrue"/>
+      <TcLOVValue value="W247" description="MB B-Class" conditionName="isTrue"/>
+      <TcLOVValue value="X254" description="MB SL 01" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

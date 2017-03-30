@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:23:48 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_na_vw" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="AU270" description="Audi A1" conditionName="isTrue"/>
+      <TcLOVValue value="AU426" description="Audi Q5" conditionName="isTrue"/>
+      <TcLOVValue value="AU516" description="Audi Q6" conditionName="isTrue"/>
+      <TcLOVValue value="AU581" description="Audi A6" conditionName="isTrue"/>
+      <TcLOVValue value="AU631" description="Audi A8" conditionName="isTrue"/>
+      <TcLOVValue value="PO526" description="Porsche Cayenne" conditionName="isTrue"/>
+      <TcLOVValue value="PO536" description="Porsche Cayenne" conditionName="isTrue"/>
+      <TcLOVValue value="PO623" description="Porsche Panamera" conditionName="isTrue"/>
+      <TcLOVValue value="RPX" description="Porsche other" conditionName="isTrue"/>
+      <TcLOVValue value="SE380" description="Seat Leon/Toledo" conditionName="isTrue"/>
+      <TcLOVValue value="SK326/0" description="Skoda Yeti" conditionName="isTrue"/>
+      <TcLOVValue value="SK350/51" description="Skoda Rapid" conditionName="isTrue"/>
+      <TcLOVValue value="SK371" description="Octavia" conditionName="isTrue"/>
+      <TcLOVValue value="SK461" description="Skoda Superb" conditionName="isTrue"/>
+      <TcLOVValue value="VAX" description="Audi other" conditionName="isTrue"/>
+      <TcLOVValue value="VKX" description="Skoda other" conditionName="isTrue"/>
+      <TcLOVValue value="VN750" description="VW T5" conditionName="isTrue"/>
+      <TcLOVValue value="VN770" description="VW T6" conditionName="isTrue"/>
+      <TcLOVValue value="VSX" description="Seat other" conditionName="isTrue"/>
+      <TcLOVValue value="VW361" description="Jetta" conditionName="isTrue"/>
+      <TcLOVValue value="VW368" description="VW Touran" conditionName="isTrue"/>
+      <TcLOVValue value="VW411" description="Passat" conditionName="isTrue"/>
+      <TcLOVValue value="VW416" description="B-CUV (Cross Coupe GTE)" conditionName="isTrue"/>
+      <TcLOVValue value="VW481" description="Passat" conditionName="isTrue"/>
+      <TcLOVValue value="VW491" description="Passat" conditionName="isTrue"/>
+      <TcLOVValue value="VW536" description="VW Touareg" conditionName="isTrue"/>
+      <TcLOVValue value="VXX" description="VW other" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

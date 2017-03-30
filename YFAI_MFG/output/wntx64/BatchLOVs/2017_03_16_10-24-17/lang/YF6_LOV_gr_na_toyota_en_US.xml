@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:24:17 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}010B" status="Approved">010B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}010B" status="Approved">Camry</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}051A" status="Approved">051A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}051A" status="Approved">Camry</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}150A" status="Approved">150A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}150A" status="Approved">Corolla</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}170A" status="Approved">170A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}170A" status="Approved">Avalon</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}180L" status="Approved">180L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}180L" status="Approved">Tundra</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}200L" status="Approved">200L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}200L" status="Approved">Sequoia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}320B" status="Approved">320B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}320B" status="Approved">RAV4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}370B" status="Approved">370B</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}370B" status="Approved">Avalon</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}420A" status="Approved">420A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}420A" status="Approved">RAV4</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}440A" status="Approved">440A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}440A" status="Approved">Highlander</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}470L" status="Approved">470L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}470L" status="Approved">Venza</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}580L" status="Approved">580L</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}580L" status="Approved">Sienna</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}760A" status="Approved">760A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}760A" status="Approved">Lexus RX350</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}989A" status="Approved">989A</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}989A" status="Approved">Tacoma</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_toyota{::}TXX" status="Approved">TXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_toyota{::}TXX" status="Approved">Toyota other</key>
+  </Add>
+</TcBusinessDataLocalization>

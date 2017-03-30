@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TcBusinessDataIncludes>
+    <include iconfile="YF6_gl_form.png"/>
+    <include iconfile="YF6_item_blue_16.png"/>
+    <include iconfile="YF6_itemrevision_blue_16.png"/>
+    <include iconfile="YF6_color_icon_rev.png"/>
+    <include iconfile="YF6_nonpart_rev.png"/>
+    <include iconfile="YF6_nonpart.png"/>
+    <include iconfile="YF6_color_icon.png"/>
+</TcBusinessDataIncludes>

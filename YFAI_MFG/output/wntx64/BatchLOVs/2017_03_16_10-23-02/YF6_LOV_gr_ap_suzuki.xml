@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"
+    Date="Thu Mar 16 10:23:02 AM 2017">
+  <Add/>
+  <Change>
+    <TcLOV name="YF6_LOV_gr_ap_suzuki" lovType="ListOfValuesString" usage="Exhaustive"
+        description="" isManagedExternally="true">
+      <TcLOVValue value="YAE" description="S Cross" conditionName="isTrue"/>
+      <TcLOVValue value="YC5/YD3" description="New Alto" conditionName="isTrue"/>
+      <TcLOVValue value="YFE" description="Vitara" conditionName="isTrue"/>
+      <TcLOVValue value="YJB" description="YJB" conditionName="isTrue"/>
+      <TcLOVValue value="YRB" description="YRB" conditionName="isTrue"/>
+      <TcLOVValue value="YS6" description="Liana" conditionName="isTrue"/>
+      <TcLOVValue value="YSC" description="YSC" conditionName="isTrue"/>
+      <TcLOVValue value="YY5" description="SX4" conditionName="isTrue"/>
+      <TcLOVValue value="YY5FL" description="SX4 NB" conditionName="isTrue"/>
+    </TcLOV>
+  </Change>
+</TcBusinessData>

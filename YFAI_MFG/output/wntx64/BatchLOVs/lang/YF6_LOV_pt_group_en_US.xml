@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Tue Mar 07 04:15:56 PM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}ADHESIVE" status="Approved">ADHESIVE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}ADHESIVE" status="Approved">ADHESIVE PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}AFTM" status="Approved">AFTM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}AFTM" status="Approved">AFTER MARKET</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}CABLING" status="Approved">CABLING</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}CABLING" status="Approved">CABLING PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}COMPO" status="Approved">COMPO</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}COMPO" status="Approved">COMPOSITE PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}CONT" status="Approved">CONT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}CONT" status="Approved">CONTAINERS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}ELASTO" status="Approved">ELASTO</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}ELASTO" status="Approved">ELASTOMERS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}FABRICS" status="Approved">FABRICS</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}FABRICS" status="Approved">FABRIC PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}HEAT" status="Approved">HEAT</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}HEAT" status="Approved">HEAT TREATED PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}HYDRA" status="Approved">HYDRA</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}HYDRA" status="Approved">HYDRAULIC PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}INTC" status="Approved">INTC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}INTC" status="Approved">INTERCOMPANY</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}MACHINE" status="Approved">MACHINE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}MACHINE" status="Approved">MACHINED PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}MOLDED" status="Approved">MOLDED</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}MOLDED" status="Approved">MOLDED PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}NFMETAL" status="Approved">NFMETAL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}NFMETAL" status="Approved">NON FERROUS METALS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}PNEUM" status="Approved">PNEUM</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}PNEUM" status="Approved">PNEUMATIC PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}SAND" status="Approved">SAND</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}SAND" status="Approved">SAND BLASTED PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}SERV" status="Approved">SERV</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}SERV" status="Approved">SERVICE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}STEEL" status="Approved">STEEL</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}STEEL" status="Approved">STEEL PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}SUBC" status="Approved">SUBC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}SUBC" status="Approved">SUB CONTRACT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}SUPPLIES" status="Approved">SUPPLIES</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}SUPPLIES" status="Approved">SUPPLIES</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}THERMOP" status="Approved">THERMOP</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}THERMOP" status="Approved">THERMO PLASTIC PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}THERMOS" status="Approved">THERMOS</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}THERMOS" status="Approved">THERMO SET PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}TOOLING" status="Approved">TOOLING</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}TOOLING" status="Approved">TOOLING</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}WASH" status="Approved">WASH</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}WASH" status="Approved">WASHED PRODUCTS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_pt_group{::}WELDED" status="Approved">WELDED</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_pt_group{::}WELDED" status="Approved">WELDED PRODUCTS</key>
+  </Add>
+</TcBusinessDataLocalization>

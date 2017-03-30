@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:23:48 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}AU270" status="Approved">AU270</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}AU270" status="Approved">Audi A1</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}AU426" status="Approved">AU426</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}AU426" status="Approved">Audi Q5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}AU516" status="Approved">AU516</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}AU516" status="Approved">Audi Q6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}AU581" status="Approved">AU581</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}AU581" status="Approved">Audi A6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}AU631" status="Approved">AU631</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}AU631" status="Approved">Audi A8</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}PO526" status="Approved">PO526</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}PO526" status="Approved">Porsche Cayenne</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}PO536" status="Approved">PO536</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}PO536" status="Approved">Porsche Cayenne</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}PO623" status="Approved">PO623</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}PO623" status="Approved">Porsche Panamera</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}RPX" status="Approved">RPX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}RPX" status="Approved">Porsche other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}SE380" status="Approved">SE380</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}SE380" status="Approved">Seat Leon/Toledo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}SK326/0" status="Approved">SK326/0</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}SK326/0" status="Approved">Skoda Yeti</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}SK350/51" status="Approved">SK350/51</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}SK350/51" status="Approved">Skoda Rapid</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}SK371" status="Approved">SK371</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}SK371" status="Approved">Octavia</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}SK461" status="Approved">SK461</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}SK461" status="Approved">Skoda Superb</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VAX" status="Approved">VAX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VAX" status="Approved">Audi other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VKX" status="Approved">VKX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VKX" status="Approved">Skoda other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VN750" status="Approved">VN750</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VN750" status="Approved">VW T5</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VN770" status="Approved">VN770</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VN770" status="Approved">VW T6</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VSX" status="Approved">VSX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VSX" status="Approved">Seat other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW361" status="Approved">VW361</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW361" status="Approved">Jetta</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW368" status="Approved">VW368</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW368" status="Approved">VW Touran</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW411" status="Approved">VW411</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW411" status="Approved">Passat</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW416" status="Approved">VW416</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW416" status="Approved">B-CUV (Cross Coupe GTE)</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW481" status="Approved">VW481</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW481" status="Approved">Passat</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW491" status="Approved">VW491</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW491" status="Approved">Passat</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VW536" status="Approved">VW536</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VW536" status="Approved">VW Touareg</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_vw{::}VXX" status="Approved">VXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_vw{::}VXX" status="Approved">VW other</key>
+  </Add>
+</TcBusinessDataLocalization>

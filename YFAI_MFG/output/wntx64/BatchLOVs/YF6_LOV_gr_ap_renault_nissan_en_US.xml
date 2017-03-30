@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:22:33 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}322" status="Approved">322</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}322"
+        status="Approved">322</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}331" status="Approved">331</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}331"
+        status="Approved">331</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}341" status="Approved">341</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}341"
+        status="Approved">341</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}531" status="Approved">531</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}531"
+        status="Approved">Venucia T70</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}531 FMC" status="Approved">531 FMC</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}531 FMC"
+        status="Approved">T70MCE</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}591" status="Approved">591</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}591"
+        status="Approved">Venucia T90</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}D511/521"
+        status="Approved">D511/521</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}D511/521"
+        status="Approved">Venucia D50/R50</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_ap_renault_nissan{::}HJE" status="Approved">HJE</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_ap_renault_nissan{::}HJE"
+        status="Approved">Captur</key>
+  </Add>
+</TcBusinessDataLocalization>

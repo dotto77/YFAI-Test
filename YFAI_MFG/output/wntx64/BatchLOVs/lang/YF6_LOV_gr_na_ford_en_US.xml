@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    batchXSDVersion="1.0" Date="Thu Mar 16 10:25:44 AM 2017">
+  <Add>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}C344" status="Approved">C344</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}C344" status="Approved">Focus C-Max</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}C346" status="Approved">C346</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}C346" status="Approved">Ford Focus</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}C346N" status="Approved">C346N</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}C346N" status="Approved">Focus</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}C519" status="Approved">C519</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}C519" status="Approved">Ford Focus</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}C520" status="Approved">C520</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}C520" status="Approved">Ford Kuga / Escape</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}CD389" status="Approved">CD389</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}CD389" status="Approved">S-Max/Galaxy</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}CD390" status="Approved">CD390</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}CD390" status="Approved">Galaxy</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}CD391" status="Approved">CD391</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}CD391" status="Approved">Fusion</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}CD539" status="Approved">CD539</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}CD539" status="Approved">Edge</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}CD542" status="Approved">CD542</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}CD542" status="Approved">Mondeo</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}CX482" status="Approved">CX482</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}CX482" status="Approved">Escape / Kuga</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}D258 (2)" status="Approved">D258 (2)</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}D258 (2)"
+        status="Approved">Taurus</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}D385" status="Approved">D385</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}D385" status="Approved">MKS</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}D471" status="Approved">D471</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}D471" status="Approved">Flex</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}D472" status="Approved">D472</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}D472" status="Approved">MKT</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}D544" status="Approved">D544</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}D544" status="Approved">Continental</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}FXX" status="Approved">FXX</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}FXX" status="Approved">Ford other</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}P552/3/4" status="Approved">P552/3/4</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}P552/3/4"
+        status="Approved">F-150</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}P558" status="Approved">P558</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}P558" status="Approved">F-250/350 Super Duty</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}P703" status="Approved">P703</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}P703" status="Approved">Ford Ranger</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}S550" status="Approved">S550</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}S550" status="Approved">Mustang</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}U222/354" status="Approved">U222/354</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}U222/354"
+        status="Approved">Expedition</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}U502" status="Approved">U502</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}U502" status="Approved">Explorer</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}U540" status="Approved">U540</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}U540" status="Approved">MKX</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}U553" status="Approved">U553</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}U553" status="Approved">Expedition</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}V363N" status="Approved">V363N</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}V363N" status="Approved">Transit</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}V408" status="Approved">V408</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}V408" status="Approved">Ford Transit Connect</key>
+    <key locale="en_US" id="LOVValue{::}YF6_LOV_gr_na_ford{::}VN127" status="Approved">VN127</key>
+    <key locale="en_US" id="LOVValueDescription{::}YF6_LOV_gr_na_ford{::}VN127" status="Approved">Econoline</key>
+  </Add>
+</TcBusinessDataLocalization>
